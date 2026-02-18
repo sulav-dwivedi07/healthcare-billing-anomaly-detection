@@ -5,5 +5,5 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 DB_PATH = os.path.join(DATA_DIR, "healthcare.db")
 
-ANOMALY_THRESHOLD = 5000  
+ANOMALY_THRESHOLD = 20000  
 DUPLICATE_TIME_WINDOW_DAYS = 1

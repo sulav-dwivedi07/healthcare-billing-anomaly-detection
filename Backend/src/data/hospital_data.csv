@@ -1,0 +1,2001 @@
+Age,Gender,Diagnosis,Procedure,Severity,Treatment_Cost
+52,Female,Cancer,X-Ray,5,140318.72
+21,Female,Cancer,Medication,2,94972.85
+83,Female,Hypertension,Surgery,3,117095.19
+24,Female,Cancer,CT Scan,3,129735.98
+22,Male,Fracture,Therapy,5,113195.61
+21,Male,Hypertension,Therapy,1,109424.15
+76,Female,Surgery,Surgery,2,115737.25
+49,Male,Infection,Blood Test,3,98201.85
+59,Female,Diabetes,Surgery,2,102694.78
+62,Female,Diabetes,CT Scan,3,97280.66
+55,Male,Fracture,Surgery,4,97028.09
+51,Female,Diabetes,Blood Test,5,126104.61
+73,Male,Diabetes,CT Scan,2,85648.73
+53,Male,Fracture,Blood Test,2,76387.2
+84,Male,Infection,MRI,4,84092.24
+8,Male,Fracture,CT Scan,3,70591.22
+78,Male,Surgery,MRI,1,99012.72
+2,Male,Fracture,Medication,2,30995.78
+4,Female,Cancer,Medication,5,130892.33
+72,Male,Flu,Blood Test,4,81456.84
+62,Male,Infection,Blood Test,5,106707.39
+53,Male,Hypertension,Medication,2,72050.78
+89,Female,Fracture,MRI,4,69900.21
+29,Female,Diabetes,Medication,5,96057.51
+65,Male,Flu,Surgery,1,61160.61
+35,Female,Cancer,MRI,3,129188.74
+33,Female,Fracture,Blood Test,3,79614.17
+41,Male,Fracture,X-Ray,4,63932.61
+7,Female,Fracture,MRI,1,35809.23
+48,Female,Diabetes,CT Scan,5,122898.23
+44,Male,Infection,Therapy,3,98977.88
+47,Male,Hypertension,X-Ray,3,98697.4
+1,Female,Diabetes,Therapy,5,146527.17
+27,Female,Cancer,X-Ray,1,98040.91
+79,Female,Flu,Therapy,2,77385.24
+52,Male,Surgery,X-Ray,5,124104.96
+4,Female,Diabetes,Surgery,5,128527.92
+43,Female,Surgery,CT Scan,5,133674.73
+36,Female,Cancer,Medication,5,127739.19
+86,Female,Cancer,Surgery,4,159165.66
+66,Female,Flu,MRI,2,46807.24
+6,Male,Fracture,Blood Test,4,95090.93
+28,Male,Fracture,Therapy,4,113259.31
+89,Male,Infection,MRI,1,60327.77
+1,Female,Diabetes,Surgery,1,84303.05
+70,Female,Surgery,MRI,3,109404.64
+9,Female,Surgery,X-Ray,5,117968.67
+24,Female,Flu,Blood Test,3,72774.42
+32,Male,Surgery,MRI,1,89286.31
+58,Female,Hypertension,MRI,4,111167.64
+12,Male,Hypertension,CT Scan,2,93808.36
+56,Female,Cancer,MRI,1,108087.08
+59,Male,Cancer,MRI,1,105628.11
+87,Female,Surgery,MRI,5,137074.51
+1,Male,Infection,CT Scan,3,84740.11
+32,Male,Diabetes,Blood Test,4,124472.86
+55,Female,Diabetes,Medication,3,67140.62
+38,Female,Fracture,X-Ray,5,73558.77
+70,Male,Flu,X-Ray,3,49062.12
+73,Female,Flu,Medication,4,51367.44
+59,Male,Surgery,CT Scan,5,139867.72
+36,Female,Surgery,Medication,3,101087.52
+67,Female,Surgery,CT Scan,3,118748.51
+33,Female,Hypertension,CT Scan,2,97300.33
+1,Female,Diabetes,Blood Test,3,99133.73
+23,Female,Cancer,Therapy,2,144539.69
+7,Male,Cancer,Surgery,4,148797.35
+1,Female,Infection,Surgery,4,109644.89
+69,Female,Infection,Blood Test,5,113715.27
+19,Male,Diabetes,Surgery,3,112853.11
+20,Female,Flu,CT Scan,1,36599.88
+72,Female,Infection,Medication,4,73761.27
+38,Male,Diabetes,MRI,4,89650.99
+89,Male,Diabetes,Therapy,3,129293.16
+25,Female,Diabetes,CT Scan,5,111323.09
+66,Male,Fracture,Surgery,3,84830.3
+80,Male,Flu,Medication,5,62672.51
+33,Male,Flu,Therapy,5,99877.51
+48,Male,Surgery,Blood Test,4,146115.84
+67,Female,Infection,X-Ray,1,46677.26
+33,Female,Surgery,MRI,4,134016.73
+22,Female,Hypertension,Medication,5,104834.87
+51,Female,Cancer,Blood Test,3,131868.12
+28,Female,Flu,CT Scan,1,36163.21
+69,Male,Fracture,MRI,4,71634.92
+35,Male,Infection,Medication,1,45635.9
+17,Female,Hypertension,X-Ray,4,100732.69
+37,Male,Diabetes,Blood Test,5,128420.0
+46,Male,Fracture,Therapy,5,118981.99
+63,Female,Infection,Medication,5,82403.15
+85,Female,Hypertension,Surgery,1,102619.77
+25,Male,Fracture,X-Ray,2,43685.17
+54,Female,Cancer,Surgery,2,142875.56
+23,Male,Infection,MRI,2,60749.0
+27,Male,Flu,Therapy,2,76138.94
+33,Female,Hypertension,MRI,1,83453.92
+43,Male,Flu,CT Scan,5,77815.28
+50,Male,Surgery,Blood Test,1,101040.91
+24,Male,Cancer,Surgery,5,162283.67
+8,Female,Infection,X-Ray,4,79874.98
+87,Male,Cancer,Surgery,4,153547.21
+63,Male,Infection,Blood Test,3,104151.74
+25,Male,Cancer,Blood Test,2,121307.52
+58,Female,Fracture,CT Scan,2,65686.52
+86,Male,Hypertension,MRI,1,78834.4
+8,Male,Fracture,MRI,5,81725.91
+60,Male,Hypertension,CT Scan,4,119761.78
+6,Female,Surgery,CT Scan,5,141893.47
+47,Female,Flu,X-Ray,3,52167.18
+13,Male,Cancer,Medication,2,101793.83
+30,Male,Cancer,Surgery,3,145191.07
+58,Male,Fracture,Surgery,2,84162.17
+62,Male,Infection,Blood Test,1,72257.75
+1,Male,Diabetes,X-Ray,2,69836.01
+48,Male,Surgery,X-Ray,1,79095.58
+16,Female,Flu,MRI,5,76389.31
+64,Female,Cancer,X-Ray,5,131565.84
+76,Female,Infection,MRI,2,78018.58
+16,Female,Flu,CT Scan,3,58613.04
+48,Male,Fracture,Blood Test,5,110760.03
+39,Female,Flu,CT Scan,4,69687.16
+23,Male,Fracture,CT Scan,2,55911.08
+10,Female,Fracture,Therapy,5,113878.02
+10,Female,Flu,X-Ray,2,36123.05
+19,Male,Diabetes,X-Ray,2,85885.17
+4,Male,Infection,Therapy,2,97620.82
+32,Female,Hypertension,MRI,3,103639.19
+35,Female,Cancer,CT Scan,4,147912.56
+33,Male,Surgery,MRI,1,95056.09
+12,Male,Diabetes,X-Ray,3,81935.29
+65,Male,Infection,CT Scan,1,60525.26
+29,Male,Flu,MRI,5,75406.58
+12,Female,Cancer,Therapy,2,146151.5
+87,Female,Diabetes,CT Scan,1,77199.87
+8,Female,Infection,MRI,5,92453.18
+68,Male,Infection,Therapy,2,104648.01
+75,Male,Surgery,CT Scan,5,142299.61
+36,Male,Cancer,X-Ray,2,104270.6
+73,Female,Cancer,Surgery,3,150545.49
+82,Female,Flu,Medication,1,19686.64
+24,Male,Infection,Blood Test,5,116022.39
+23,Male,Cancer,Surgery,1,122594.18
+30,Female,Diabetes,CT Scan,1,74870.13
+89,Female,Flu,Therapy,5,123719.93
+59,Male,Flu,MRI,3,55570.83
+52,Female,Hypertension,X-Ray,3,92949.28
+16,Female,Surgery,Therapy,5,164809.54
+52,Male,Diabetes,Blood Test,3,101576.32
+85,Male,Flu,Medication,4,58318.33
+76,Male,Surgery,Blood Test,1,112822.91
+74,Male,Infection,Medication,2,48588.9
+7,Male,Fracture,CT Scan,5,92568.44
+40,Male,Hypertension,MRI,2,95431.01
+66,Male,Flu,X-Ray,5,65131.48
+29,Female,Flu,Blood Test,5,90677.53
+65,Male,Diabetes,Therapy,4,124941.22
+17,Female,Cancer,Surgery,1,119133.57
+31,Male,Flu,Blood Test,3,73897.39
+61,Male,Infection,Therapy,4,109864.62
+19,Male,Hypertension,MRI,3,107800.16
+45,Male,Cancer,Medication,5,136468.74
+20,Male,Infection,Blood Test,4,92425.46
+72,Female,Diabetes,Surgery,5,137373.46
+3,Male,Flu,Surgery,5,98815.87
+62,Female,Infection,Surgery,1,74871.95
+56,Male,Infection,X-Ray,1,45579.32
+38,Male,Diabetes,Blood Test,5,125248.26
+75,Male,Hypertension,Blood Test,4,133667.52
+36,Female,Cancer,CT Scan,3,130440.4
+47,Male,Cancer,CT Scan,1,114436.03
+49,Female,Hypertension,CT Scan,1,95452.06
+16,Female,Hypertension,Surgery,1,112880.44
+75,Female,Hypertension,CT Scan,4,116372.19
+8,Female,Fracture,Surgery,2,76225.76
+36,Male,Diabetes,Blood Test,2,88037.75
+28,Female,Infection,Blood Test,4,99607.9
+41,Female,Flu,Medication,4,37486.47
+84,Male,Infection,Therapy,5,133012.38
+29,Female,Flu,CT Scan,5,73848.83
+56,Male,Diabetes,X-Ray,2,80957.29
+5,Female,Cancer,Surgery,1,126710.08
+49,Male,Infection,MRI,3,85085.51
+85,Male,Cancer,Blood Test,2,134954.61
+27,Male,Surgery,CT Scan,1,99917.93
+77,Female,Cancer,Surgery,1,118588.68
+1,Male,Hypertension,CT Scan,5,122543.53
+55,Female,Cancer,CT Scan,4,143776.22
+53,Male,Infection,Blood Test,5,113884.9
+74,Female,Flu,MRI,2,37946.39
+73,Female,Hypertension,CT Scan,1,87463.82
+51,Female,Infection,Medication,5,74707.05
+32,Male,Surgery,Blood Test,2,121277.46
+72,Male,Diabetes,Blood Test,2,79209.15
+3,Male,Surgery,Surgery,3,133808.68
+50,Female,Infection,Surgery,4,108683.71
+23,Female,Flu,X-Ray,5,76846.29
+85,Male,Cancer,Medication,2,102265.57
+50,Female,Flu,Blood Test,2,59747.86
+82,Male,Infection,X-Ray,3,72355.97
+38,Female,Fracture,Therapy,1,74631.02
+88,Female,Hypertension,Therapy,4,146500.37
+81,Male,Diabetes,X-Ray,5,93630.58
+29,Female,Cancer,MRI,4,140510.78
+17,Male,Fracture,Blood Test,4,89129.75
+84,Female,Flu,MRI,5,75169.0
+77,Female,Infection,Medication,3,64865.6
+43,Male,Diabetes,MRI,3,90982.99
+4,Male,Cancer,X-Ray,1,90500.6
+67,Female,Surgery,Blood Test,3,132688.9
+61,Male,Flu,Medication,2,28125.32
+51,Male,Cancer,MRI,3,123033.81
+42,Male,Flu,Surgery,5,102326.56
+22,Female,Hypertension,Therapy,5,160514.63
+12,Female,Cancer,Medication,2,109508.18
+46,Male,Fracture,Medication,2,37426.69
+27,Female,Cancer,Medication,1,84256.62
+26,Male,Infection,Therapy,1,98121.26
+56,Female,Fracture,Surgery,3,88813.89
+63,Female,Fracture,Blood Test,5,103057.53
+52,Female,Fracture,X-Ray,2,43723.84
+28,Female,Surgery,Medication,2,90657.01
+23,Female,Cancer,CT Scan,3,127210.32
+18,Male,Surgery,MRI,2,96051.16
+64,Female,Hypertension,Therapy,1,105904.54
+28,Male,Cancer,Therapy,2,152348.0
+86,Male,Flu,Medication,2,30416.68
+44,Female,Hypertension,Surgery,1,106291.11
+68,Female,Flu,Therapy,2,80952.82
+67,Female,Fracture,MRI,1,41980.13
+86,Male,Fracture,Medication,2,41283.52
+8,Male,Hypertension,X-Ray,1,61362.16
+6,Male,Fracture,X-Ray,4,70637.28
+26,Female,Hypertension,Therapy,2,122243.86
+70,Female,Diabetes,Medication,5,86310.03
+33,Male,Surgery,Therapy,5,161396.79
+75,Female,Infection,Therapy,1,88314.37
+3,Female,Cancer,CT Scan,3,135137.42
+79,Female,Surgery,X-Ray,1,87676.02
+51,Male,Surgery,Therapy,1,126979.9
+26,Male,Fracture,Blood Test,3,89215.56
+45,Female,Diabetes,Blood Test,4,110701.54
+20,Female,Flu,Therapy,1,67193.12
+12,Female,Surgery,Blood Test,1,99978.55
+37,Female,Infection,Blood Test,3,96838.68
+77,Female,Hypertension,Therapy,3,126202.1
+10,Male,Cancer,Blood Test,5,165708.57
+23,Male,Cancer,Surgery,2,135140.16
+73,Female,Diabetes,Therapy,1,106451.26
+9,Female,Infection,Surgery,3,111399.39
+35,Female,Surgery,CT Scan,1,97727.93
+69,Female,Infection,Blood Test,4,105298.65
+76,Female,Infection,MRI,3,79246.97
+35,Male,Cancer,MRI,1,107190.22
+64,Female,Diabetes,Therapy,5,150100.67
+72,Female,Surgery,Blood Test,3,127627.42
+30,Male,Surgery,MRI,3,115441.64
+85,Male,Cancer,MRI,5,149967.42
+26,Female,Hypertension,Blood Test,4,131474.6
+89,Male,Cancer,X-Ray,5,147996.46
+72,Male,Surgery,Surgery,3,142724.5
+38,Male,Diabetes,X-Ray,1,60992.09
+25,Female,Surgery,Therapy,1,132632.19
+66,Male,Infection,CT Scan,5,107478.07
+51,Male,Diabetes,Blood Test,3,109404.33
+7,Male,Fracture,Therapy,3,90975.97
+15,Female,Infection,Medication,5,77748.14
+33,Female,Fracture,Medication,4,61047.9
+29,Male,Surgery,Blood Test,1,116365.15
+27,Female,Hypertension,X-Ray,1,72707.83
+10,Male,Hypertension,X-Ray,5,109111.71
+74,Female,Flu,MRI,1,35135.18
+47,Female,Diabetes,Surgery,4,118613.29
+88,Female,Diabetes,Medication,4,91834.87
+5,Female,Surgery,X-Ray,5,121026.81
+47,Female,Flu,MRI,4,68169.25
+36,Female,Flu,Therapy,4,99667.79
+26,Male,Diabetes,Medication,3,78209.87
+74,Male,Hypertension,Medication,2,78490.86
+46,Male,Flu,X-Ray,3,46699.84
+62,Female,Cancer,Blood Test,2,126472.55
+89,Male,Flu,CT Scan,1,43996.97
+68,Female,Surgery,CT Scan,5,146028.83
+37,Female,Cancer,CT Scan,2,119836.76
+9,Male,Infection,Therapy,3,113959.25
+29,Male,Hypertension,CT Scan,1,87998.86
+46,Male,Hypertension,MRI,5,125205.37
+21,Male,Diabetes,Surgery,2,114743.46
+21,Female,Surgery,MRI,1,94669.76
+53,Female,Diabetes,Medication,1,56731.08
+26,Female,Hypertension,CT Scan,1,85147.94
+35,Male,Cancer,Therapy,4,170865.85
+2,Female,Cancer,MRI,2,113466.59
+34,Male,Cancer,Surgery,3,141186.17
+51,Female,Diabetes,X-Ray,1,60246.32
+71,Female,Cancer,Surgery,4,164572.2
+49,Male,Flu,Blood Test,5,88663.93
+63,Male,Fracture,CT Scan,3,69064.04
+84,Female,Flu,CT Scan,1,45783.35
+49,Male,Infection,Therapy,4,115454.45
+61,Female,Cancer,Surgery,1,129227.32
+71,Male,Fracture,CT Scan,1,50195.68
+51,Female,Cancer,Therapy,3,149490.19
+56,Male,Flu,Therapy,3,83559.86
+49,Female,Surgery,Therapy,5,154829.51
+30,Male,Hypertension,Therapy,3,139442.91
+38,Female,Surgery,Surgery,3,123603.24
+63,Female,Hypertension,Blood Test,4,129599.21
+3,Female,Diabetes,MRI,2,75875.89
+74,Female,Cancer,MRI,3,121147.12
+87,Female,Hypertension,X-Ray,4,114111.35
+32,Female,Infection,CT Scan,2,73315.91
+57,Female,Diabetes,CT Scan,3,102971.43
+88,Female,Fracture,CT Scan,3,88256.86
+67,Male,Infection,Blood Test,3,95095.03
+8,Male,Flu,CT Scan,2,55649.03
+16,Female,Flu,CT Scan,4,71901.62
+37,Female,Flu,Blood Test,5,80383.67
+82,Male,Hypertension,Blood Test,2,104597.34
+7,Female,Infection,Blood Test,1,72980.67
+60,Male,Surgery,Medication,2,81744.43
+2,Female,Infection,Medication,1,36486.38
+2,Male,Infection,MRI,3,80345.05
+87,Female,Surgery,X-Ray,4,114972.35
+9,Male,Hypertension,Surgery,2,118528.43
+53,Male,Diabetes,Surgery,4,121874.84
+30,Male,Hypertension,Surgery,3,125787.37
+87,Female,Flu,Surgery,1,70742.39
+9,Female,Diabetes,Therapy,2,95529.98
+25,Female,Infection,Therapy,1,89104.33
+4,Male,Cancer,MRI,2,112280.08
+58,Female,Surgery,Blood Test,5,147201.2
+75,Female,Infection,CT Scan,2,72858.48
+85,Male,Diabetes,Surgery,2,97102.04
+17,Female,Diabetes,X-Ray,5,102609.32
+25,Male,Diabetes,CT Scan,2,83443.17
+86,Female,Infection,Therapy,5,132871.02
+27,Female,Diabetes,CT Scan,1,80906.88
+12,Male,Surgery,CT Scan,5,135017.27
+53,Male,Cancer,CT Scan,2,122859.49
+62,Male,Infection,X-Ray,2,64132.97
+46,Female,Fracture,Blood Test,2,73888.3
+51,Female,Surgery,Therapy,5,161921.28
+36,Male,Diabetes,Medication,3,69742.41
+40,Male,Diabetes,Therapy,3,113966.69
+36,Male,Infection,X-Ray,1,52540.17
+54,Female,Infection,Medication,2,59204.86
+55,Female,Infection,Blood Test,5,104976.07
+20,Male,Infection,Surgery,3,99380.53
+81,Female,Fracture,Therapy,3,90602.21
+26,Male,Surgery,Surgery,2,131235.61
+73,Female,Infection,Surgery,1,77420.44
+61,Female,Cancer,Surgery,3,141147.22
+42,Female,Fracture,Surgery,1,72638.76
+44,Male,Infection,X-Ray,3,66387.67
+12,Female,Surgery,Blood Test,3,132528.61
+49,Female,Surgery,MRI,5,130477.68
+17,Male,Flu,MRI,2,42937.54
+12,Male,Diabetes,Blood Test,3,113329.36
+8,Male,Hypertension,Medication,5,107424.02
+80,Male,Cancer,X-Ray,1,103651.27
+82,Female,Flu,Therapy,1,73874.23
+26,Female,Cancer,Blood Test,2,135443.21
+16,Male,Diabetes,Surgery,1,93157.89
+7,Female,Flu,X-Ray,5,56966.26
+7,Male,Diabetes,Medication,1,50386.1
+59,Male,Flu,Medication,5,57179.82
+82,Female,Flu,Medication,4,46772.75
+17,Female,Surgery,Blood Test,3,132282.59
+60,Female,Hypertension,Medication,5,107110.67
+40,Female,Flu,Medication,2,24606.26
+55,Male,Infection,Medication,4,78419.3
+4,Male,Surgery,MRI,5,132789.08
+86,Male,Hypertension,MRI,1,84026.48
+42,Male,Infection,Therapy,4,127667.87
+66,Male,Fracture,Therapy,3,98711.42
+32,Male,Surgery,MRI,3,117927.4
+39,Female,Diabetes,MRI,4,98828.61
+16,Male,Fracture,Therapy,4,103023.88
+10,Male,Infection,Medication,1,40934.87
+65,Male,Cancer,Medication,1,79823.91
+3,Male,Fracture,CT Scan,5,84427.75
+68,Female,Hypertension,Blood Test,2,103806.74
+62,Male,Hypertension,Blood Test,5,137926.58
+49,Male,Cancer,X-Ray,1,98621.07
+88,Female,Flu,CT Scan,4,78321.61
+46,Female,Flu,Therapy,3,84230.06
+62,Male,Hypertension,MRI,5,121354.05
+63,Male,Hypertension,CT Scan,5,126852.93
+74,Male,Surgery,X-Ray,3,104112.33
+3,Female,Diabetes,Medication,5,88155.38
+5,Female,Surgery,X-Ray,1,95758.49
+61,Male,Cancer,CT Scan,3,136398.1
+35,Female,Surgery,Blood Test,2,119598.26
+3,Male,Cancer,CT Scan,3,131134.94
+13,Male,Infection,X-Ray,5,99436.88
+14,Female,Diabetes,Surgery,5,136389.19
+11,Male,Cancer,Blood Test,1,112080.85
+29,Male,Cancer,Therapy,1,132869.72
+67,Female,Cancer,Surgery,1,132883.67
+11,Male,Cancer,Surgery,3,146546.44
+88,Female,Fracture,Therapy,4,102503.4
+5,Male,Diabetes,X-Ray,2,65595.35
+18,Male,Surgery,CT Scan,5,143373.81
+69,Male,Cancer,CT Scan,5,149145.87
+81,Female,Cancer,CT Scan,2,107645.96
+58,Male,Surgery,Medication,3,93548.88
+56,Female,Surgery,Blood Test,2,125318.57
+33,Female,Diabetes,Therapy,3,121312.83
+80,Female,Flu,Surgery,4,93102.41
+89,Female,Flu,MRI,5,77986.37
+42,Female,Infection,Therapy,4,126010.79
+7,Female,Infection,Blood Test,5,114593.55
+45,Male,Hypertension,Blood Test,2,112451.03
+42,Male,Surgery,CT Scan,2,110626.23
+32,Female,Hypertension,CT Scan,3,109748.14
+82,Male,Flu,X-Ray,4,56337.64
+2,Male,Flu,X-Ray,5,61971.43
+13,Female,Hypertension,Surgery,3,123667.07
+17,Male,Diabetes,CT Scan,2,89077.42
+35,Male,Hypertension,CT Scan,3,119566.27
+30,Female,Surgery,X-Ray,2,100431.94
+28,Female,Diabetes,X-Ray,4,89218.24
+79,Male,Diabetes,Therapy,5,140717.83
+64,Male,Fracture,Surgery,1,71170.45
+12,Male,Surgery,Blood Test,1,98550.21
+82,Female,Fracture,Therapy,2,93925.07
+14,Female,Cancer,Medication,5,137802.01
+52,Female,Hypertension,Surgery,5,141900.63
+76,Male,Cancer,Blood Test,5,170627.62
+58,Male,Hypertension,X-Ray,2,83571.25
+46,Female,Infection,CT Scan,2,69150.65
+29,Female,Infection,X-Ray,5,87561.3
+75,Male,Flu,Blood Test,4,83068.62
+84,Male,Surgery,Medication,3,102089.08
+27,Female,Infection,CT Scan,3,87601.01
+80,Male,Fracture,MRI,5,86504.12
+59,Female,Infection,MRI,4,80322.37
+3,Female,Diabetes,Surgery,3,107690.46
+1,Female,Fracture,X-Ray,2,43843.82
+61,Male,Infection,CT Scan,3,87810.28
+64,Female,Cancer,X-Ray,1,91942.3
+15,Female,Fracture,CT Scan,4,88968.82
+80,Male,Diabetes,Therapy,3,124713.63
+79,Female,Surgery,Blood Test,3,133233.77
+46,Male,Cancer,Therapy,2,150513.61
+64,Female,Infection,Surgery,4,118845.76
+53,Female,Fracture,MRI,4,83840.56
+84,Male,Surgery,X-Ray,4,124705.19
+9,Female,Diabetes,MRI,1,69673.28
+2,Female,Fracture,Medication,3,42123.22
+64,Female,Infection,Blood Test,5,113605.01
+64,Male,Hypertension,Surgery,2,110310.52
+38,Female,Surgery,X-Ray,3,108829.0
+41,Female,Flu,Medication,3,39177.29
+86,Male,Flu,MRI,3,53983.39
+46,Male,Surgery,Surgery,4,145283.55
+20,Female,Diabetes,Therapy,1,98895.18
+2,Male,Fracture,Medication,1,27234.43
+33,Male,Infection,Therapy,1,87304.07
+26,Male,Hypertension,Blood Test,2,105869.31
+38,Female,Diabetes,CT Scan,2,91844.41
+44,Male,Infection,X-Ray,1,52316.55
+75,Male,Surgery,CT Scan,5,151809.9
+8,Male,Infection,Surgery,2,91189.63
+62,Female,Surgery,Medication,4,113347.76
+7,Male,Hypertension,Surgery,3,120673.82
+84,Male,Fracture,Medication,4,67957.39
+3,Male,Fracture,Blood Test,1,61470.67
+60,Male,Flu,Surgery,2,76428.24
+12,Male,Surgery,CT Scan,4,127298.52
+13,Female,Hypertension,Blood Test,1,94048.26
+55,Female,Flu,MRI,4,65870.83
+45,Male,Infection,Medication,5,84343.43
+51,Male,Infection,X-Ray,4,85196.62
+82,Female,Infection,Blood Test,2,78543.89
+56,Female,Cancer,Surgery,1,135792.22
+59,Female,Cancer,Medication,3,109071.99
+61,Male,Infection,Therapy,5,126251.91
+54,Female,Diabetes,CT Scan,1,76016.89
+85,Female,Diabetes,Blood Test,2,99008.77
+61,Male,Surgery,MRI,4,130972.21
+20,Male,Infection,CT Scan,4,97787.28
+24,Male,Flu,CT Scan,2,51322.26
+36,Female,Hypertension,Surgery,2,120035.49
+66,Female,Infection,CT Scan,2,79298.92
+58,Female,Diabetes,Therapy,5,147567.73
+12,Male,Cancer,Blood Test,3,146982.7
+15,Female,Fracture,Therapy,1,82650.46
+26,Female,Diabetes,Medication,4,83919.0
+41,Female,Cancer,X-Ray,4,125592.55
+14,Male,Diabetes,Medication,1,48271.31
+17,Female,Fracture,CT Scan,3,73227.62
+89,Male,Cancer,Surgery,1,136685.05
+5,Male,Cancer,Blood Test,1,117773.69
+40,Male,Cancer,X-Ray,4,119220.51
+67,Female,Surgery,X-Ray,2,94988.02
+10,Male,Cancer,Blood Test,4,148203.75
+20,Male,Hypertension,Blood Test,3,122168.43
+76,Female,Fracture,Therapy,1,75089.9
+28,Female,Hypertension,MRI,1,73876.72
+37,Male,Infection,Surgery,5,128323.44
+44,Female,Flu,CT Scan,4,72088.78
+79,Male,Diabetes,X-Ray,4,90367.76
+78,Male,Flu,Therapy,2,77121.22
+73,Female,Surgery,Medication,5,117995.42
+59,Female,Surgery,Blood Test,5,144775.23
+33,Female,Flu,X-Ray,1,33228.78
+20,Female,Flu,Surgery,5,99859.41
+88,Female,Flu,X-Ray,3,51981.64
+56,Female,Surgery,Surgery,3,139532.44
+50,Male,Hypertension,CT Scan,4,114172.18
+45,Male,Flu,Therapy,4,95709.03
+80,Female,Fracture,Surgery,2,84063.87
+85,Male,Flu,Blood Test,1,45982.92
+8,Male,Flu,X-Ray,5,68765.44
+86,Male,Hypertension,CT Scan,2,100480.2
+65,Male,Fracture,Medication,2,39735.78
+82,Male,Diabetes,CT Scan,1,78966.03
+26,Male,Flu,CT Scan,1,45827.63
+19,Female,Surgery,Therapy,5,169885.15
+48,Female,Surgery,MRI,5,124145.3
+66,Male,Fracture,X-Ray,2,53017.32
+64,Female,Infection,MRI,1,56527.46
+31,Male,Surgery,Blood Test,1,109580.95
+75,Female,Surgery,CT Scan,4,138865.95
+4,Male,Hypertension,Therapy,3,134671.17
+70,Female,Flu,Blood Test,2,64107.33
+83,Female,Hypertension,Blood Test,5,142326.98
+75,Male,Hypertension,Medication,1,67352.5
+89,Female,Surgery,MRI,5,130306.63
+15,Female,Flu,CT Scan,1,33359.89
+21,Male,Cancer,Medication,3,99831.3
+60,Male,Hypertension,Blood Test,5,130236.36
+35,Male,Fracture,X-Ray,4,65232.32
+11,Male,Hypertension,Medication,3,85805.48
+66,Male,Cancer,CT Scan,1,109054.97
+3,Female,Fracture,MRI,5,83445.71
+70,Female,Flu,Surgery,4,94130.59
+26,Male,Hypertension,Blood Test,1,89352.14
+37,Female,Flu,Surgery,4,78623.01
+15,Male,Flu,Surgery,3,79149.87
+43,Male,Fracture,MRI,5,88027.34
+21,Female,Infection,Therapy,3,106786.57
+75,Male,Hypertension,CT Scan,3,112710.42
+15,Female,Diabetes,Surgery,4,120805.52
+34,Female,Infection,CT Scan,5,107465.37
+68,Female,Cancer,Blood Test,5,157457.04
+28,Female,Surgery,CT Scan,3,114882.05
+8,Male,Flu,Surgery,2,72972.59
+49,Male,Infection,Blood Test,5,117315.42
+4,Male,Hypertension,Blood Test,2,104528.66
+74,Male,Flu,CT Scan,5,81903.88
+31,Male,Hypertension,Blood Test,1,88585.03
+36,Male,Infection,Surgery,4,113002.37
+68,Female,Cancer,CT Scan,1,116785.02
+47,Female,Cancer,X-Ray,3,105965.44
+13,Male,Infection,MRI,5,94230.29
+9,Male,Fracture,CT Scan,2,63455.96
+88,Male,Cancer,MRI,2,121098.75
+24,Female,Fracture,Surgery,1,66931.27
+26,Female,Cancer,CT Scan,3,128707.96
+19,Male,Flu,Therapy,4,98424.62
+60,Male,Fracture,MRI,2,58933.39
+74,Female,Diabetes,Medication,1,58105.03
+55,Male,Cancer,Therapy,2,145514.27
+33,Male,Flu,Therapy,5,101719.71
+81,Female,Flu,CT Scan,5,89172.92
+32,Male,Hypertension,CT Scan,3,116716.98
+10,Male,Cancer,Surgery,1,134797.47
+25,Female,Infection,Blood Test,2,73823.45
+64,Male,Surgery,Therapy,3,154561.4
+42,Female,Flu,Surgery,5,101714.66
+39,Female,Diabetes,CT Scan,1,79794.92
+39,Female,Surgery,CT Scan,5,149091.98
+36,Female,Infection,Blood Test,5,107296.1
+41,Female,Diabetes,Surgery,4,119493.51
+13,Female,Hypertension,MRI,1,82116.92
+44,Male,Fracture,CT Scan,3,78027.04
+32,Female,Fracture,MRI,5,87756.46
+67,Female,Hypertension,CT Scan,4,112566.92
+58,Female,Surgery,Medication,3,90402.06
+35,Female,Surgery,Medication,2,80101.78
+87,Male,Cancer,MRI,4,137832.17
+36,Female,Fracture,MRI,5,81395.56
+77,Female,Flu,Medication,5,53896.54
+80,Female,Surgery,Blood Test,2,124147.07
+62,Male,Hypertension,MRI,1,70422.14
+23,Female,Surgery,MRI,4,119653.51
+5,Male,Diabetes,Therapy,4,129614.98
+30,Male,Hypertension,CT Scan,5,132400.39
+84,Female,Diabetes,Blood Test,2,99325.89
+16,Female,Flu,CT Scan,4,71478.29
+38,Female,Flu,CT Scan,4,65547.03
+66,Male,Diabetes,MRI,1,65851.27
+85,Male,Fracture,Therapy,2,89685.93
+75,Female,Flu,Surgery,3,82290.45
+52,Male,Hypertension,Therapy,2,125542.89
+35,Female,Surgery,Medication,3,109215.0
+15,Female,Fracture,X-Ray,4,63825.79
+49,Male,Flu,Blood Test,2,61769.86
+38,Male,Hypertension,MRI,2,98280.73
+30,Male,Diabetes,MRI,3,93917.92
+80,Female,Cancer,Medication,4,118268.7
+35,Female,Infection,X-Ray,2,63655.34
+2,Male,Diabetes,Medication,3,71240.91
+10,Female,Infection,Therapy,1,87454.41
+66,Male,Surgery,Blood Test,1,100454.26
+14,Female,Surgery,Blood Test,1,106608.74
+80,Male,Cancer,Medication,5,132434.59
+6,Male,Fracture,MRI,1,42721.89
+13,Female,Diabetes,X-Ray,5,99347.4
+68,Male,Hypertension,CT Scan,1,85141.53
+79,Female,Cancer,MRI,4,138159.33
+31,Female,Fracture,Blood Test,4,85702.38
+18,Female,Surgery,X-Ray,5,125316.5
+43,Male,Diabetes,Therapy,2,107183.59
+60,Female,Cancer,Medication,3,115719.94
+34,Female,Infection,MRI,2,56622.0
+89,Male,Surgery,X-Ray,2,105647.44
+31,Female,Surgery,CT Scan,1,100053.54
+87,Female,Cancer,Surgery,3,147804.37
+7,Female,Diabetes,CT Scan,4,109622.3
+4,Male,Infection,MRI,4,77528.51
+52,Male,Fracture,MRI,4,80162.18
+38,Female,Fracture,Therapy,2,80065.61
+7,Male,Hypertension,Therapy,3,130226.17
+86,Female,Infection,X-Ray,5,93391.03
+55,Male,Hypertension,MRI,2,91240.92
+62,Female,Hypertension,X-Ray,3,100947.2
+21,Male,Infection,X-Ray,2,56129.84
+87,Female,Fracture,Blood Test,2,75637.69
+13,Male,Hypertension,X-Ray,5,105682.02
+85,Male,Diabetes,CT Scan,5,114279.47
+60,Female,Diabetes,Medication,3,73845.31
+63,Female,Cancer,CT Scan,5,148184.7
+52,Male,Fracture,MRI,4,75399.56
+82,Male,Infection,Surgery,3,96240.49
+38,Female,Diabetes,CT Scan,2,78832.19
+21,Male,Surgery,Medication,2,82704.64
+1,Female,Fracture,Blood Test,2,74249.52
+60,Male,Hypertension,X-Ray,5,115625.88
+60,Male,Fracture,Therapy,5,117166.38
+28,Male,Surgery,Surgery,3,124241.43
+86,Male,Diabetes,Blood Test,1,86813.46
+79,Male,Hypertension,X-Ray,1,75110.02
+83,Male,Cancer,Medication,5,127382.91
+32,Female,Diabetes,X-Ray,4,100666.94
+77,Male,Surgery,CT Scan,1,103532.68
+87,Male,Surgery,Therapy,3,152815.34
+24,Female,Diabetes,X-Ray,1,63076.85
+5,Male,Infection,Therapy,4,113237.54
+11,Female,Surgery,Surgery,4,152044.06
+15,Male,Surgery,X-Ray,3,98515.45
+58,Female,Flu,CT Scan,5,84583.26
+5,Female,Infection,MRI,2,68285.66
+66,Male,Infection,Medication,2,58855.79
+67,Female,Fracture,Therapy,1,74043.08
+41,Male,Cancer,Blood Test,1,116647.69
+62,Female,Infection,Surgery,2,88194.9
+2,Female,Diabetes,Blood Test,5,121247.47
+53,Male,Infection,CT Scan,4,96799.77
+73,Male,Fracture,MRI,1,42108.49
+59,Male,Diabetes,Surgery,4,118377.62
+30,Male,Flu,MRI,4,60655.1
+85,Female,Surgery,Surgery,4,150302.35
+21,Female,Fracture,Medication,3,47227.18
+32,Male,Fracture,X-Ray,1,38111.67
+21,Male,Diabetes,CT Scan,5,107753.78
+21,Male,Flu,CT Scan,4,69315.01
+22,Male,Fracture,CT Scan,3,70277.66
+89,Male,Infection,X-Ray,4,83448.44
+27,Male,Fracture,MRI,2,51093.22
+79,Male,Flu,MRI,3,52829.0
+22,Male,Fracture,X-Ray,3,51399.26
+37,Female,Surgery,MRI,5,136150.05
+19,Male,Fracture,MRI,5,91126.24
+30,Male,Diabetes,Therapy,4,136948.76
+8,Female,Surgery,Surgery,2,128765.91
+58,Male,Surgery,Medication,1,80595.66
+4,Male,Hypertension,Therapy,3,132908.15
+64,Male,Hypertension,Blood Test,2,101732.32
+21,Female,Cancer,Blood Test,3,145439.77
+27,Female,Flu,X-Ray,2,40333.16
+36,Female,Cancer,Medication,2,95751.09
+58,Female,Fracture,MRI,4,71975.51
+34,Male,Diabetes,Therapy,5,143941.4
+20,Female,Flu,Therapy,3,87171.21
+70,Female,Surgery,Surgery,3,140876.43
+58,Female,Fracture,Therapy,4,115718.68
+10,Female,Cancer,X-Ray,3,109248.77
+26,Female,Surgery,MRI,5,130330.09
+45,Male,Flu,Surgery,4,85190.87
+17,Female,Fracture,MRI,4,82810.78
+80,Female,Flu,X-Ray,2,37405.5
+55,Female,Hypertension,MRI,4,122057.52
+34,Male,Cancer,Blood Test,2,136741.83
+19,Male,Flu,X-Ray,4,53914.79
+83,Female,Diabetes,X-Ray,5,109712.04
+76,Female,Diabetes,X-Ray,2,77539.13
+64,Female,Hypertension,MRI,3,105610.17
+48,Male,Fracture,Therapy,5,115241.02
+55,Male,Hypertension,X-Ray,1,69319.79
+18,Male,Cancer,Blood Test,4,153765.5
+45,Male,Hypertension,CT Scan,1,93661.08
+17,Male,Infection,MRI,4,79211.42
+15,Female,Flu,Blood Test,4,77670.9
+75,Female,Surgery,X-Ray,1,88530.83
+3,Male,Flu,CT Scan,5,79393.37
+70,Female,Hypertension,Blood Test,1,95582.94
+64,Male,Fracture,Therapy,5,111695.49
+84,Male,Fracture,MRI,1,50669.28
+70,Male,Cancer,MRI,2,115985.82
+4,Female,Diabetes,CT Scan,2,85699.53
+70,Male,Surgery,Surgery,1,119229.81
+54,Male,Cancer,CT Scan,4,142328.86
+84,Male,Fracture,Blood Test,1,58203.44
+36,Female,Hypertension,CT Scan,5,123918.12
+35,Female,Cancer,X-Ray,4,122287.72
+14,Female,Surgery,Surgery,2,130267.92
+89,Male,Diabetes,CT Scan,5,115434.11
+70,Female,Surgery,MRI,4,125369.58
+84,Male,Hypertension,Medication,2,76353.75
+57,Female,Infection,Medication,5,69728.8
+7,Male,Cancer,X-Ray,2,109770.23
+32,Female,Diabetes,CT Scan,3,96934.95
+71,Male,Surgery,X-Ray,5,129129.7
+42,Male,Fracture,Blood Test,2,63287.27
+57,Male,Fracture,Therapy,5,115204.74
+58,Female,Flu,Surgery,5,101871.32
+37,Female,Infection,Surgery,1,74578.55
+19,Female,Surgery,Medication,3,96349.97
+61,Female,Surgery,MRI,1,95789.53
+33,Male,Fracture,Surgery,2,75613.27
+71,Male,Fracture,Blood Test,1,70696.62
+81,Male,Hypertension,CT Scan,5,128590.13
+43,Female,Infection,Blood Test,1,66166.86
+39,Male,Infection,Surgery,1,76812.05
+70,Male,Infection,X-Ray,2,60930.72
+65,Female,Fracture,Blood Test,2,74432.8
+16,Female,Cancer,Blood Test,3,144319.67
+39,Male,Hypertension,Blood Test,4,127053.97
+60,Female,Diabetes,CT Scan,3,94359.99
+10,Female,Cancer,MRI,3,120270.18
+20,Male,Infection,CT Scan,2,70004.04
+68,Male,Cancer,Blood Test,4,145169.36
+85,Female,Cancer,Therapy,4,169724.97
+14,Female,Hypertension,X-Ray,3,92130.36
+28,Female,Flu,Medication,2,29593.92
+63,Female,Flu,MRI,2,43844.78
+72,Male,Flu,Surgery,4,84920.71
+42,Male,Diabetes,Therapy,4,128507.99
+23,Female,Fracture,Medication,1,34188.33
+50,Female,Cancer,CT Scan,3,134066.35
+24,Male,Fracture,CT Scan,4,75008.61
+41,Male,Surgery,Blood Test,4,134333.08
+9,Male,Fracture,Therapy,2,79830.49
+42,Male,Fracture,X-Ray,4,72012.87
+7,Female,Surgery,X-Ray,3,106631.8
+3,Female,Fracture,CT Scan,3,69476.12
+8,Female,Cancer,CT Scan,5,149381.76
+32,Male,Hypertension,CT Scan,4,115846.54
+70,Male,Hypertension,Surgery,3,131221.45
+32,Female,Fracture,Blood Test,1,60721.1
+16,Female,Surgery,Therapy,1,130861.1
+63,Male,Infection,X-Ray,5,84838.03
+59,Male,Fracture,Medication,3,52091.54
+69,Female,Infection,Therapy,1,87939.48
+5,Female,Fracture,X-Ray,3,58043.45
+61,Male,Hypertension,MRI,4,113404.87
+50,Female,Fracture,Therapy,3,99020.96
+60,Female,Flu,CT Scan,4,65360.32
+88,Female,Surgery,Blood Test,2,126815.89
+86,Male,Hypertension,Therapy,3,135648.9
+21,Male,Surgery,Therapy,4,159260.1
+62,Male,Surgery,Surgery,1,115273.58
+41,Male,Hypertension,Therapy,3,130996.46
+47,Female,Cancer,Blood Test,2,135167.96
+48,Female,Fracture,X-Ray,1,43685.3
+69,Female,Hypertension,Surgery,4,138468.65
+35,Male,Cancer,Blood Test,1,120629.02
+84,Female,Cancer,Therapy,5,173304.8
+40,Male,Cancer,Surgery,4,164938.4
+47,Male,Surgery,X-Ray,1,89689.23
+47,Male,Cancer,Therapy,5,175459.57
+57,Female,Surgery,CT Scan,5,149139.78
+76,Male,Surgery,Medication,1,76221.68
+39,Female,Fracture,Surgery,1,72123.61
+82,Female,Diabetes,CT Scan,3,104648.5
+6,Female,Cancer,X-Ray,3,107495.55
+14,Male,Infection,Medication,4,62559.85
+72,Male,Fracture,X-Ray,3,65137.89
+84,Female,Fracture,Blood Test,1,61313.61
+25,Male,Hypertension,X-Ray,2,84954.35
+28,Female,Flu,Blood Test,4,82823.76
+45,Female,Surgery,Blood Test,1,113693.31
+19,Female,Diabetes,MRI,4,95316.22
+14,Female,Flu,Therapy,5,99146.48
+30,Female,Infection,Blood Test,1,72959.32
+64,Female,Surgery,MRI,1,84774.0
+75,Male,Hypertension,MRI,5,121268.66
+59,Female,Diabetes,Medication,1,56091.56
+86,Female,Infection,Blood Test,1,79795.68
+55,Male,Flu,Medication,5,55225.85
+12,Female,Infection,Medication,3,63575.36
+11,Male,Cancer,Blood Test,2,138853.42
+48,Female,Hypertension,Blood Test,4,131696.55
+67,Male,Infection,Surgery,4,113675.78
+81,Male,Diabetes,MRI,2,84259.65
+88,Male,Diabetes,Blood Test,1,81797.89
+19,Female,Hypertension,CT Scan,2,97400.31
+52,Female,Flu,MRI,5,80760.85
+51,Female,Hypertension,Surgery,4,134192.38
+55,Male,Diabetes,MRI,4,98519.69
+45,Male,Infection,Therapy,3,105033.77
+86,Male,Infection,Medication,4,73916.02
+55,Female,Hypertension,Therapy,1,116507.43
+1,Male,Cancer,MRI,1,107082.82
+83,Male,Flu,Medication,4,50180.25
+65,Female,Flu,MRI,1,33149.03
+40,Female,Diabetes,MRI,3,78660.73
+48,Male,Fracture,Therapy,5,129822.34
+61,Female,Cancer,Surgery,1,126535.01
+46,Female,Surgery,X-Ray,1,83753.95
+85,Male,Diabetes,MRI,5,107489.22
+49,Female,Cancer,Surgery,2,141336.75
+9,Male,Flu,CT Scan,5,78547.55
+49,Female,Diabetes,Therapy,1,102110.68
+59,Male,Hypertension,Therapy,1,120603.09
+39,Female,Cancer,Blood Test,5,159482.31
+11,Female,Cancer,CT Scan,5,152115.67
+46,Female,Fracture,Surgery,5,102411.5
+76,Female,Hypertension,Medication,5,97510.04
+12,Female,Hypertension,X-Ray,5,116206.24
+69,Female,Infection,Surgery,1,79738.14
+46,Female,Hypertension,CT Scan,5,127415.02
+68,Female,Cancer,CT Scan,1,117278.9
+36,Male,Diabetes,Blood Test,2,95766.98
+40,Male,Surgery,Therapy,4,150906.92
+76,Male,Cancer,CT Scan,2,130472.4
+2,Female,Hypertension,MRI,5,115037.98
+74,Male,Fracture,Therapy,2,89861.8
+14,Female,Flu,MRI,2,46267.97
+51,Female,Infection,X-Ray,1,54315.68
+84,Male,Infection,Surgery,3,104635.62
+2,Male,Surgery,CT Scan,5,139391.76
+40,Female,Cancer,Medication,2,95276.08
+81,Female,Diabetes,CT Scan,1,70564.51
+65,Female,Fracture,X-Ray,5,75022.15
+79,Male,Cancer,CT Scan,2,124076.81
+24,Male,Hypertension,Medication,1,56774.89
+38,Male,Infection,Medication,4,76139.71
+36,Female,Infection,Blood Test,3,91123.02
+45,Female,Cancer,Surgery,1,134252.91
+60,Female,Fracture,Surgery,4,96646.9
+32,Female,Hypertension,Blood Test,3,127554.13
+41,Female,Fracture,X-Ray,3,50157.35
+48,Female,Flu,MRI,2,42037.86
+33,Female,Diabetes,X-Ray,2,70275.45
+56,Male,Hypertension,Surgery,4,130271.48
+56,Female,Hypertension,X-Ray,1,72725.39
+65,Female,Surgery,MRI,4,125388.27
+18,Male,Infection,Therapy,4,107320.4
+35,Female,Flu,X-Ray,3,51118.2
+11,Male,Flu,Blood Test,1,45058.66
+38,Female,Hypertension,CT Scan,5,135010.62
+56,Male,Cancer,Therapy,4,168355.86
+65,Female,Cancer,Medication,4,114676.26
+26,Male,Infection,X-Ray,3,68788.38
+46,Male,Surgery,Surgery,3,131809.27
+50,Female,Hypertension,CT Scan,3,107690.94
+15,Male,Cancer,MRI,5,146554.6
+37,Male,Diabetes,X-Ray,2,69372.6
+35,Female,Fracture,MRI,4,74821.62
+29,Female,Diabetes,Medication,5,93230.94
+59,Female,Infection,MRI,4,101114.62
+86,Male,Flu,Surgery,5,90271.97
+87,Male,Surgery,MRI,3,120661.17
+51,Male,Flu,Blood Test,2,57212.83
+85,Female,Fracture,CT Scan,4,88424.54
+68,Female,Infection,Therapy,3,107856.41
+1,Male,Diabetes,Surgery,4,122672.0
+51,Male,Diabetes,Surgery,5,131760.44
+17,Female,Fracture,Medication,3,49309.31
+24,Male,Flu,Surgery,2,70697.32
+19,Female,Surgery,X-Ray,5,120480.66
+5,Male,Diabetes,Blood Test,1,85524.86
+36,Male,Hypertension,Medication,3,86089.81
+11,Female,Cancer,CT Scan,5,146452.19
+47,Male,Diabetes,Surgery,4,119957.35
+56,Female,Infection,Blood Test,4,104178.36
+41,Female,Fracture,MRI,2,56935.5
+52,Male,Surgery,X-Ray,2,95453.69
+75,Female,Cancer,X-Ray,1,89675.63
+27,Female,Fracture,Surgery,3,98031.95
+64,Male,Diabetes,Medication,1,61013.37
+53,Male,Diabetes,Therapy,3,117492.49
+82,Male,Infection,MRI,4,91705.61
+4,Female,Infection,Therapy,5,130426.08
+35,Male,Surgery,Blood Test,1,101826.77
+72,Female,Flu,CT Scan,3,67415.44
+63,Female,Hypertension,CT Scan,3,113117.78
+61,Female,Fracture,Therapy,2,73348.06
+22,Female,Fracture,X-Ray,5,87298.72
+21,Male,Flu,MRI,4,64350.35
+66,Female,Hypertension,Therapy,1,109828.25
+57,Female,Flu,Medication,3,34430.2
+19,Male,Fracture,MRI,2,58715.63
+71,Female,Fracture,Blood Test,3,85115.43
+65,Male,Cancer,MRI,4,138825.21
+37,Male,Infection,X-Ray,5,92428.29
+8,Female,Infection,Surgery,5,121733.63
+1,Male,Infection,X-Ray,4,79479.81
+35,Male,Surgery,MRI,2,101637.29
+34,Male,Cancer,Medication,4,114337.42
+30,Male,Fracture,CT Scan,3,68537.9
+60,Female,Cancer,MRI,5,144460.19
+45,Male,Diabetes,Therapy,2,113203.07
+17,Male,Surgery,Medication,2,89814.66
+16,Male,Infection,Medication,4,72037.0
+56,Female,Infection,MRI,4,84022.48
+34,Male,Cancer,Blood Test,3,144847.37
+53,Male,Surgery,Medication,1,76680.87
+17,Female,Fracture,Blood Test,1,57817.69
+25,Male,Hypertension,Surgery,1,97335.67
+55,Male,Diabetes,Medication,2,72752.56
+52,Female,Infection,Surgery,4,117794.73
+32,Male,Cancer,Medication,2,102635.61
+53,Female,Diabetes,Surgery,4,118782.27
+77,Male,Fracture,X-Ray,3,55155.99
+31,Male,Fracture,Therapy,2,90999.58
+82,Male,Fracture,Surgery,2,76278.53
+49,Female,Surgery,Medication,1,82129.41
+26,Female,Fracture,X-Ray,2,51075.48
+87,Female,Infection,Surgery,2,88185.65
+8,Female,Surgery,Surgery,1,117798.94
+64,Male,Hypertension,Medication,5,105330.57
+28,Female,Hypertension,Therapy,3,131552.75
+9,Male,Infection,X-Ray,3,68197.99
+34,Female,Diabetes,Surgery,4,126992.57
+51,Male,Surgery,Blood Test,5,150306.99
+83,Male,Hypertension,Surgery,1,110166.43
+51,Male,Cancer,Blood Test,5,160701.83
+17,Male,Surgery,MRI,2,102241.74
+60,Female,Hypertension,MRI,3,99225.64
+89,Female,Cancer,Surgery,2,139377.71
+13,Female,Diabetes,MRI,5,104607.07
+33,Male,Flu,Therapy,4,96561.27
+25,Male,Flu,X-Ray,1,20230.11
+21,Male,Surgery,Medication,4,109128.86
+42,Female,Infection,X-Ray,1,55119.42
+48,Male,Diabetes,MRI,4,99034.83
+18,Male,Flu,Medication,3,41458.59
+71,Male,Diabetes,Therapy,1,103649.59
+31,Female,Hypertension,CT Scan,2,91919.52
+16,Male,Hypertension,X-Ray,1,69947.05
+56,Female,Diabetes,Therapy,1,112319.03
+87,Male,Hypertension,CT Scan,5,130857.81
+8,Male,Diabetes,Medication,4,79230.17
+18,Female,Flu,CT Scan,3,65275.88
+21,Male,Fracture,X-Ray,4,59206.48
+54,Male,Surgery,Therapy,1,124056.91
+13,Male,Diabetes,MRI,1,70665.94
+49,Male,Surgery,Medication,2,82820.9
+74,Male,Cancer,Blood Test,5,163206.78
+37,Male,Fracture,Medication,2,37759.82
+17,Female,Fracture,Therapy,4,92655.96
+54,Male,Hypertension,Therapy,4,143603.7
+60,Male,Hypertension,MRI,2,90685.55
+65,Male,Surgery,CT Scan,4,123769.1
+81,Male,Flu,Blood Test,4,79407.33
+58,Female,Hypertension,X-Ray,4,107264.31
+34,Female,Hypertension,Blood Test,5,139659.07
+6,Male,Cancer,Therapy,5,181520.27
+7,Female,Fracture,CT Scan,4,77233.2
+57,Male,Cancer,Blood Test,4,152673.8
+51,Male,Diabetes,Medication,1,53804.44
+32,Female,Hypertension,Surgery,3,126456.06
+72,Male,Fracture,Medication,5,76366.19
+86,Female,Diabetes,CT Scan,3,97320.86
+29,Female,Infection,CT Scan,2,73551.88
+28,Male,Cancer,X-Ray,5,135520.73
+4,Female,Diabetes,CT Scan,2,93507.35
+9,Female,Cancer,Therapy,5,186082.18
+75,Female,Flu,MRI,4,66914.88
+22,Male,Infection,Therapy,1,91412.41
+71,Male,Cancer,CT Scan,2,120218.87
+57,Male,Diabetes,Therapy,2,109547.97
+83,Male,Surgery,CT Scan,3,127473.72
+77,Female,Surgery,X-Ray,5,131367.25
+28,Male,Diabetes,MRI,3,88703.04
+65,Female,Flu,Surgery,1,57492.93
+54,Male,Infection,Therapy,4,121782.31
+57,Male,Diabetes,Medication,1,59422.58
+5,Male,Hypertension,MRI,4,114819.74
+52,Male,Fracture,MRI,1,40154.6
+50,Male,Hypertension,Blood Test,3,116720.89
+15,Female,Surgery,CT Scan,5,143023.27
+62,Female,Flu,X-Ray,2,37023.26
+78,Male,Hypertension,MRI,2,92049.1
+3,Female,Diabetes,CT Scan,5,108579.66
+8,Male,Cancer,Medication,4,118908.1
+81,Male,Fracture,CT Scan,3,78489.83
+77,Male,Cancer,Blood Test,2,130703.78
+70,Male,Hypertension,Surgery,1,109442.77
+16,Female,Hypertension,Therapy,4,133809.38
+89,Female,Flu,Blood Test,2,63760.86
+19,Female,Surgery,X-Ray,2,96079.44
+8,Female,Surgery,X-Ray,5,123495.74
+8,Male,Diabetes,MRI,4,100998.79
+39,Male,Flu,Surgery,1,50483.64
+59,Male,Diabetes,Therapy,4,139370.58
+86,Female,Surgery,Medication,4,111078.07
+9,Female,Fracture,Surgery,5,101197.96
+66,Male,Diabetes,Medication,3,77322.58
+22,Male,Cancer,Medication,5,125313.6
+13,Female,Fracture,Blood Test,5,92365.81
+10,Female,Cancer,Blood Test,4,145710.04
+27,Female,Cancer,CT Scan,2,114518.25
+1,Male,Flu,Therapy,1,59803.13
+84,Female,Infection,CT Scan,4,103806.52
+35,Male,Surgery,X-Ray,3,105252.6
+78,Female,Fracture,MRI,1,49838.66
+18,Male,Fracture,Therapy,5,117932.39
+82,Female,Cancer,Medication,4,113201.92
+65,Male,Hypertension,CT Scan,2,102685.82
+5,Male,Hypertension,X-Ray,2,84537.62
+65,Male,Flu,CT Scan,1,44457.11
+41,Female,Diabetes,Therapy,5,136725.25
+68,Female,Cancer,Blood Test,5,164858.98
+21,Male,Surgery,Therapy,3,152560.28
+76,Male,Hypertension,Medication,2,75891.12
+71,Male,Fracture,Therapy,2,89416.71
+40,Female,Infection,CT Scan,5,112055.25
+84,Male,Hypertension,MRI,2,91172.95
+8,Male,Cancer,X-Ray,1,99130.5
+46,Female,Surgery,MRI,4,115174.82
+68,Female,Diabetes,CT Scan,2,88455.71
+67,Female,Fracture,MRI,3,69898.21
+40,Female,Infection,CT Scan,5,109497.18
+24,Male,Hypertension,Blood Test,2,109922.92
+4,Female,Cancer,Medication,3,92575.37
+53,Male,Cancer,MRI,4,141889.06
+23,Male,Infection,Therapy,5,131601.18
+57,Female,Surgery,Blood Test,2,107058.16
+40,Female,Flu,CT Scan,5,75850.33
+51,Female,Infection,Surgery,4,107804.84
+76,Male,Surgery,CT Scan,3,128886.87
+69,Male,Infection,Medication,5,86552.78
+87,Female,Surgery,Blood Test,2,116038.51
+25,Female,Flu,X-Ray,3,38258.58
+51,Female,Hypertension,Blood Test,1,101466.95
+39,Male,Infection,Therapy,5,127692.31
+54,Female,Infection,Therapy,5,127932.52
+31,Female,Fracture,Blood Test,2,65359.15
+74,Male,Surgery,Medication,3,99366.29
+81,Male,Hypertension,Therapy,3,126303.9
+10,Male,Hypertension,Surgery,1,105876.83
+25,Female,Infection,X-Ray,3,67518.29
+21,Female,Fracture,CT Scan,5,92216.64
+89,Female,Surgery,Therapy,3,142669.12
+36,Female,Fracture,X-Ray,1,42209.71
+70,Male,Hypertension,Medication,1,71477.66
+23,Female,Infection,Medication,2,53479.62
+81,Female,Diabetes,MRI,2,83157.93
+41,Female,Hypertension,MRI,5,119208.87
+84,Female,Fracture,CT Scan,4,82901.35
+3,Male,Hypertension,Blood Test,1,100441.04
+47,Female,Surgery,CT Scan,5,146037.8
+55,Male,Flu,MRI,1,32835.49
+32,Male,Cancer,Surgery,4,148774.5
+18,Female,Surgery,X-Ray,1,83598.56
+4,Female,Infection,Surgery,3,101473.98
+29,Female,Cancer,MRI,3,125982.05
+40,Male,Flu,CT Scan,3,70212.4
+65,Male,Fracture,X-Ray,5,81744.14
+13,Male,Cancer,X-Ray,3,117754.86
+19,Female,Fracture,Medication,4,60052.73
+89,Male,Hypertension,Surgery,4,135935.22
+68,Male,Diabetes,CT Scan,4,111867.39
+57,Male,Diabetes,MRI,5,107889.94
+72,Male,Fracture,X-Ray,3,51872.58
+72,Male,Diabetes,CT Scan,4,112010.3
+12,Female,Surgery,Medication,5,110453.14
+17,Female,Surgery,Medication,1,69086.65
+5,Male,Cancer,MRI,1,104573.22
+59,Female,Diabetes,Medication,1,58690.61
+62,Male,Fracture,CT Scan,2,73166.72
+69,Female,Hypertension,X-Ray,3,91162.84
+66,Female,Surgery,Therapy,4,153505.03
+87,Male,Diabetes,Therapy,3,125050.3
+54,Male,Cancer,Surgery,5,168228.68
+82,Female,Flu,Surgery,2,66459.82
+57,Male,Infection,CT Scan,2,77874.57
+66,Female,Hypertension,Surgery,2,116088.32
+69,Female,Surgery,CT Scan,4,140017.99
+84,Male,Cancer,CT Scan,1,112133.2
+49,Male,Surgery,Therapy,3,141464.29
+3,Female,Flu,Medication,2,25334.37
+89,Male,Flu,Medication,3,34840.7
+74,Male,Flu,X-Ray,2,31680.21
+43,Male,Cancer,X-Ray,3,114416.6
+19,Male,Hypertension,Blood Test,4,124591.72
+66,Female,Surgery,Surgery,5,162356.98
+48,Female,Diabetes,Blood Test,1,79658.68
+59,Female,Fracture,X-Ray,4,78726.66
+59,Male,Fracture,CT Scan,3,69062.19
+48,Female,Fracture,CT Scan,5,95353.48
+30,Male,Fracture,Surgery,1,61867.64
+28,Male,Hypertension,X-Ray,1,72618.9
+49,Female,Flu,X-Ray,1,24170.79
+36,Male,Flu,Blood Test,3,68251.15
+46,Male,Surgery,Therapy,2,137787.43
+32,Male,Cancer,Medication,1,97098.16
+50,Female,Infection,Medication,3,61431.42
+85,Female,Infection,Medication,1,35222.67
+73,Female,Flu,Therapy,3,84454.97
+26,Female,Infection,Blood Test,3,101047.92
+41,Male,Cancer,X-Ray,2,113957.27
+50,Male,Fracture,X-Ray,4,70435.69
+23,Male,Infection,Medication,4,64507.63
+47,Male,Cancer,MRI,1,101856.98
+48,Male,Infection,Therapy,2,95047.41
+40,Female,Infection,CT Scan,3,93525.07
+58,Female,Surgery,Blood Test,1,108395.98
+75,Female,Surgery,MRI,2,97359.26
+82,Male,Surgery,Therapy,3,141442.93
+36,Male,Flu,Surgery,3,81383.72
+3,Male,Hypertension,MRI,2,85686.34
+65,Female,Infection,MRI,3,74433.57
+81,Female,Cancer,Surgery,1,131239.69
+6,Male,Flu,X-Ray,3,34711.03
+28,Male,Cancer,Blood Test,1,121824.34
+54,Male,Flu,Therapy,5,111234.82
+85,Female,Hypertension,Surgery,2,120455.93
+61,Male,Surgery,X-Ray,2,100203.55
+40,Male,Fracture,Surgery,4,93913.38
+37,Male,Fracture,Medication,4,58863.43
+11,Female,Hypertension,CT Scan,2,84040.82
+57,Male,Diabetes,Therapy,5,141976.94
+61,Female,Hypertension,Blood Test,3,108451.63
+54,Male,Fracture,CT Scan,4,80295.24
+3,Male,Infection,CT Scan,2,68641.09
+1,Female,Hypertension,MRI,5,121763.52
+71,Male,Fracture,Blood Test,3,77355.7
+47,Male,Diabetes,Medication,4,90147.06
+1,Male,Fracture,Therapy,4,103854.38
+12,Female,Infection,Therapy,4,126948.08
+25,Female,Diabetes,MRI,5,98321.69
+61,Male,Surgery,Surgery,2,130459.33
+55,Female,Infection,Therapy,5,132486.32
+36,Male,Infection,X-Ray,2,51749.29
+80,Male,Diabetes,Surgery,1,91097.3
+85,Female,Infection,MRI,5,104574.38
+35,Female,Infection,Surgery,1,70048.67
+5,Male,Flu,CT Scan,2,47628.82
+80,Male,Infection,X-Ray,3,75014.62
+30,Male,Flu,MRI,1,20891.85
+32,Male,Hypertension,CT Scan,4,113271.5
+23,Female,Fracture,MRI,5,89029.08
+18,Male,Surgery,CT Scan,1,104492.27
+30,Female,Hypertension,CT Scan,1,96361.21
+78,Female,Infection,Therapy,2,97997.92
+10,Male,Fracture,MRI,4,68635.25
+28,Female,Infection,Surgery,3,101447.23
+78,Female,Cancer,MRI,3,132894.18
+24,Female,Hypertension,CT Scan,3,104250.37
+9,Male,Infection,X-Ray,1,54158.5
+74,Female,Diabetes,Blood Test,2,85046.73
+65,Female,Fracture,Blood Test,5,89071.26
+1,Female,Surgery,Therapy,2,133066.88
+48,Male,Cancer,CT Scan,5,153188.99
+61,Male,Surgery,Medication,5,127707.2
+39,Female,Hypertension,Blood Test,2,101863.33
+26,Male,Infection,Medication,1,40462.01
+67,Male,Cancer,Medication,2,86926.06
+62,Female,Hypertension,Blood Test,1,99397.87
+43,Female,Fracture,Blood Test,1,56617.15
+29,Male,Cancer,Surgery,5,176996.93
+32,Male,Diabetes,Medication,2,64003.18
+65,Female,Flu,X-Ray,5,75043.1
+86,Female,Infection,Medication,1,32870.92
+71,Male,Hypertension,Blood Test,5,137615.65
+83,Female,Fracture,Medication,3,47149.81
+30,Male,Flu,Blood Test,1,48182.38
+18,Male,Infection,MRI,3,71414.77
+8,Male,Diabetes,CT Scan,4,102034.77
+57,Female,Flu,MRI,4,64623.04
+49,Female,Hypertension,Surgery,5,151350.23
+82,Male,Infection,Blood Test,2,86563.26
+20,Male,Diabetes,Blood Test,5,124039.98
+67,Male,Infection,MRI,3,79105.06
+40,Female,Hypertension,MRI,3,99583.66
+55,Female,Fracture,Blood Test,4,100558.44
+30,Female,Infection,CT Scan,3,83085.77
+2,Male,Surgery,CT Scan,1,106330.97
+61,Male,Cancer,CT Scan,1,107105.54
+36,Male,Infection,Therapy,1,95782.98
+45,Female,Flu,Blood Test,2,61323.24
+81,Male,Fracture,Blood Test,3,88421.24
+29,Male,Surgery,X-Ray,3,112080.93
+71,Female,Hypertension,Medication,4,97304.35
+29,Female,Hypertension,Surgery,2,113860.63
+17,Male,Cancer,Blood Test,3,147195.12
+86,Male,Flu,Surgery,2,67510.28
+76,Female,Hypertension,X-Ray,2,93002.67
+16,Male,Flu,Medication,3,32522.11
+57,Female,Fracture,X-Ray,5,75997.46
+76,Female,Flu,CT Scan,2,45772.16
+44,Male,Infection,Blood Test,3,88661.22
+23,Male,Diabetes,CT Scan,2,93746.42
+62,Male,Surgery,Therapy,1,130733.03
+67,Female,Cancer,X-Ray,3,112857.25
+61,Female,Fracture,Medication,1,36537.11
+21,Female,Infection,X-Ray,2,58621.73
+13,Male,Fracture,MRI,3,56020.35
+53,Male,Cancer,Medication,4,122739.37
+23,Male,Fracture,Surgery,4,101846.53
+33,Female,Infection,X-Ray,4,82731.7
+8,Male,Cancer,MRI,1,94900.2
+21,Male,Flu,X-Ray,3,42753.04
+79,Male,Flu,MRI,5,79850.47
+48,Male,Infection,CT Scan,1,67179.45
+56,Male,Surgery,Blood Test,3,138433.13
+71,Male,Fracture,MRI,5,87068.99
+18,Male,Hypertension,Blood Test,2,109619.38
+38,Male,Flu,X-Ray,3,47849.74
+20,Female,Flu,MRI,4,67806.99
+61,Male,Infection,Blood Test,2,79993.71
+67,Male,Cancer,Therapy,5,190597.3
+16,Male,Fracture,Blood Test,5,93918.48
+13,Male,Surgery,Therapy,1,122170.41
+30,Male,Diabetes,MRI,4,103996.89
+48,Female,Diabetes,X-Ray,5,104510.35
+32,Female,Surgery,CT Scan,3,127244.67
+58,Female,Cancer,Medication,3,109259.07
+10,Female,Cancer,X-Ray,3,118798.61
+25,Female,Fracture,X-Ray,4,75093.86
+43,Male,Hypertension,Medication,1,62689.28
+20,Male,Cancer,Therapy,3,154427.97
+55,Female,Fracture,X-Ray,4,72541.44
+69,Female,Fracture,Therapy,3,85864.28
+50,Male,Diabetes,Blood Test,4,108711.05
+42,Male,Cancer,Medication,4,119132.55
+32,Female,Flu,Surgery,3,80176.82
+61,Female,Fracture,CT Scan,2,68741.11
+87,Male,Infection,Surgery,3,101575.31
+21,Female,Infection,Therapy,4,127862.94
+89,Female,Infection,CT Scan,1,67468.48
+54,Male,Flu,Medication,2,35741.95
+71,Female,Fracture,Surgery,4,102324.84
+65,Female,Cancer,MRI,4,136715.4
+81,Male,Cancer,Blood Test,5,160378.43
+46,Male,Diabetes,Medication,2,71070.8
+12,Male,Infection,Therapy,4,121869.88
+38,Female,Surgery,Surgery,3,139093.31
+13,Male,Cancer,Blood Test,5,160322.36
+66,Female,Fracture,Blood Test,5,104523.1
+54,Female,Surgery,Therapy,2,140904.55
+75,Female,Hypertension,CT Scan,4,118420.97
+8,Female,Hypertension,MRI,5,118645.81
+40,Female,Diabetes,MRI,2,79975.12
+55,Female,Fracture,Surgery,3,85958.59
+7,Male,Infection,Surgery,5,125414.1
+73,Male,Surgery,Medication,3,96132.82
+51,Male,Diabetes,Therapy,4,134991.33
+57,Female,Fracture,MRI,5,80742.8
+20,Female,Fracture,Therapy,4,107715.34
+29,Male,Hypertension,Therapy,3,133992.25
+11,Female,Fracture,CT Scan,2,60666.13
+88,Female,Hypertension,Medication,2,69656.91
+32,Female,Hypertension,Surgery,4,140759.92
+37,Female,Infection,Blood Test,1,60163.06
+40,Male,Hypertension,Therapy,4,147372.59
+64,Female,Hypertension,Medication,5,102951.17
+56,Male,Surgery,Medication,4,105556.42
+36,Female,Diabetes,Surgery,5,138252.17
+13,Female,Fracture,Therapy,4,108625.15
+82,Male,Cancer,MRI,2,114312.88
+31,Female,Cancer,Therapy,3,163310.14
+69,Male,Surgery,Therapy,2,137860.94
+40,Female,Surgery,Therapy,3,144196.31
+57,Male,Diabetes,Blood Test,2,101029.24
+53,Female,Infection,X-Ray,2,68344.26
+48,Female,Surgery,Blood Test,2,117793.79
+76,Female,Surgery,MRI,1,92729.39
+63,Female,Diabetes,Blood Test,5,130179.45
+81,Male,Infection,Blood Test,1,62332.51
+73,Male,Hypertension,X-Ray,4,114585.65
+44,Female,Fracture,Therapy,3,93192.71
+48,Male,Infection,X-Ray,2,61054.05
+16,Female,Flu,Therapy,4,95969.4
+13,Female,Surgery,MRI,5,118516.07
+81,Male,Infection,Therapy,1,92359.75
+60,Female,Surgery,CT Scan,2,105724.46
+14,Male,Flu,Medication,4,41308.65
+63,Male,Hypertension,Therapy,4,148959.78
+53,Female,Infection,Blood Test,3,90610.62
+80,Female,Infection,X-Ray,5,88304.39
+38,Male,Surgery,Blood Test,1,105435.08
+10,Male,Fracture,Medication,3,51503.74
+59,Female,Diabetes,Blood Test,4,121848.63
+69,Female,Cancer,MRI,4,137420.54
+89,Male,Flu,MRI,1,36127.01
+84,Male,Flu,CT Scan,4,64857.81
+13,Female,Cancer,X-Ray,5,137130.92
+20,Male,Infection,Medication,4,71876.08
+77,Female,Flu,CT Scan,1,42140.99
+15,Male,Surgery,Blood Test,5,141830.57
+17,Male,Surgery,Therapy,2,134560.46
+59,Male,Infection,Blood Test,2,86823.51
+59,Female,Hypertension,Surgery,5,134758.84
+89,Female,Diabetes,Surgery,5,124846.5
+16,Female,Flu,Therapy,2,74199.88
+30,Male,Cancer,Blood Test,5,168558.95
+82,Female,Infection,X-Ray,5,96754.92
+55,Female,Surgery,Surgery,1,121501.39
+40,Female,Surgery,CT Scan,3,124841.04
+74,Male,Infection,Surgery,4,113776.98
+53,Female,Hypertension,Surgery,4,139264.93
+9,Female,Cancer,MRI,1,101181.29
+44,Male,Diabetes,MRI,3,85313.05
+32,Female,Cancer,Blood Test,4,154066.62
+78,Male,Flu,X-Ray,1,19314.13
+62,Female,Hypertension,CT Scan,4,123852.9
+65,Female,Surgery,CT Scan,3,119999.94
+11,Male,Surgery,X-Ray,3,109835.75
+17,Male,Surgery,X-Ray,1,87620.42
+85,Female,Flu,X-Ray,2,31658.63
+37,Female,Diabetes,MRI,5,109340.34
+49,Female,Fracture,Medication,3,55929.36
+11,Female,Diabetes,Medication,1,45385.32
+83,Female,Flu,Surgery,4,84134.1
+17,Female,Fracture,X-Ray,3,52805.58
+38,Female,Flu,Medication,5,52315.91
+68,Female,Hypertension,Blood Test,2,107140.61
+13,Male,Surgery,X-Ray,4,116895.6
+58,Male,Hypertension,CT Scan,1,94280.23
+83,Female,Diabetes,Blood Test,2,104513.35
+56,Female,Hypertension,CT Scan,3,109895.77
+76,Male,Infection,Blood Test,2,85948.5
+4,Male,Cancer,MRI,4,130713.66
+56,Female,Diabetes,Therapy,4,128595.48
+31,Male,Cancer,Surgery,5,168976.05
+24,Female,Flu,Therapy,2,59244.32
+73,Male,Fracture,Blood Test,2,66081.92
+83,Female,Flu,CT Scan,3,67419.04
+24,Female,Cancer,Medication,5,127221.61
+53,Female,Fracture,Medication,4,67043.62
+26,Female,Infection,Therapy,2,96381.55
+12,Female,Hypertension,X-Ray,4,106370.07
+87,Female,Hypertension,Surgery,1,115700.81
+3,Female,Hypertension,Surgery,2,110970.91
+21,Male,Flu,MRI,1,33182.54
+85,Male,Infection,CT Scan,5,108525.27
+38,Male,Infection,MRI,5,87338.73
+52,Female,Fracture,MRI,1,45256.83
+21,Female,Cancer,MRI,1,96036.62
+47,Female,Surgery,MRI,4,117272.01
+18,Female,Cancer,MRI,5,145220.1
+23,Male,Diabetes,X-Ray,3,86511.77
+40,Male,Fracture,CT Scan,2,66323.57
+72,Female,Hypertension,Surgery,3,127054.84
+61,Female,Hypertension,X-Ray,5,110392.29
+69,Female,Infection,X-Ray,1,49208.21
+59,Male,Infection,MRI,2,70066.71
+76,Female,Infection,CT Scan,2,87203.83
+77,Female,Hypertension,Surgery,3,128812.99
+54,Female,Flu,CT Scan,4,79652.52
+73,Female,Infection,MRI,2,59110.96
+31,Male,Surgery,Medication,4,102248.07
+89,Female,Diabetes,Medication,4,77925.62
+1,Male,Surgery,CT Scan,1,99679.92
+63,Male,Infection,MRI,2,73563.46
+81,Female,Flu,Medication,3,36694.38
+80,Male,Hypertension,MRI,1,77609.69
+17,Male,Fracture,Blood Test,1,56666.65
+78,Female,Diabetes,CT Scan,5,116644.21
+72,Male,Infection,X-Ray,5,93358.7
+15,Male,Flu,Therapy,5,99788.96
+35,Female,Flu,Therapy,4,83568.35
+6,Female,Cancer,Therapy,5,176252.12
+89,Male,Hypertension,Therapy,2,127696.09
+26,Male,Cancer,Therapy,5,170832.21
+59,Male,Flu,CT Scan,2,47837.65
+18,Male,Diabetes,Blood Test,4,122517.33
+13,Male,Flu,MRI,4,64145.43
+15,Male,Surgery,Blood Test,3,132909.34
+20,Male,Infection,MRI,4,92729.02
+35,Female,Flu,CT Scan,2,52766.5
+61,Male,Diabetes,Medication,5,96188.09
+17,Male,Cancer,X-Ray,3,115529.69
+36,Male,Hypertension,X-Ray,5,115449.47
+70,Male,Surgery,Therapy,2,127693.17
+79,Male,Infection,X-Ray,4,82449.54
+40,Male,Diabetes,Surgery,3,110808.7
+66,Male,Surgery,X-Ray,3,103609.2
+8,Female,Flu,Surgery,3,71015.35
+66,Female,Surgery,MRI,4,118726.08
+57,Female,Diabetes,Blood Test,3,104490.9
+69,Male,Fracture,Medication,5,67450.86
+39,Female,Infection,Medication,4,75689.92
+23,Male,Fracture,Therapy,5,115474.45
+6,Female,Surgery,CT Scan,2,107316.28
+23,Female,Diabetes,Surgery,2,100821.12
+18,Female,Hypertension,Therapy,2,112144.49
+84,Male,Flu,MRI,3,55917.94
+63,Female,Infection,Blood Test,3,96840.66
+4,Female,Surgery,Surgery,4,149352.54
+81,Female,Hypertension,Medication,1,69308.05
+70,Female,Flu,Blood Test,3,68672.31
+22,Male,Infection,Therapy,1,94833.35
+11,Male,Infection,MRI,5,93178.27
+3,Male,Diabetes,Blood Test,1,91397.4
+18,Female,Diabetes,Medication,1,57253.05
+73,Female,Infection,CT Scan,2,70184.29
+47,Female,Infection,X-Ray,4,82211.95
+87,Female,Diabetes,Medication,1,53710.88
+25,Male,Flu,Therapy,2,72557.53
+78,Male,Surgery,MRI,2,103928.65
+41,Female,Flu,Surgery,1,53271.04
+78,Female,Fracture,Blood Test,3,77236.65
+75,Female,Surgery,Blood Test,3,132471.78
+85,Male,Infection,X-Ray,5,90653.69
+81,Female,Surgery,Surgery,2,130417.97
+76,Female,Hypertension,Therapy,1,111830.48
+75,Female,Flu,CT Scan,1,42218.89
+18,Female,Infection,Medication,3,60263.4
+6,Male,Surgery,MRI,1,89242.53
+47,Male,Diabetes,Therapy,2,102693.99
+2,Male,Cancer,Medication,2,104574.69
+59,Male,Cancer,Surgery,3,144852.47
+7,Male,Infection,Medication,4,74022.14
+12,Female,Fracture,MRI,5,85761.31
+81,Female,Flu,Therapy,4,99400.22
+85,Female,Infection,CT Scan,5,107958.93
+30,Male,Surgery,Surgery,2,123980.4
+71,Male,Diabetes,Therapy,5,144365.91
+29,Female,Surgery,Surgery,3,139047.73
+15,Male,Infection,Surgery,4,112258.59
+77,Male,Cancer,Blood Test,2,142064.52
+21,Male,Cancer,X-Ray,5,133017.48
+20,Female,Fracture,X-Ray,1,38279.52
+70,Female,Diabetes,X-Ray,4,87551.93
+18,Male,Diabetes,Blood Test,5,122680.48
+54,Male,Surgery,CT Scan,4,122819.99
+34,Female,Surgery,CT Scan,5,145337.04
+43,Male,Fracture,CT Scan,5,86680.9
+36,Female,Flu,CT Scan,1,34629.39
+19,Female,Cancer,Surgery,4,162826.56
+9,Male,Hypertension,Blood Test,4,128028.14
+50,Female,Surgery,CT Scan,2,112142.77
+75,Male,Hypertension,Medication,5,104881.09
+22,Male,Flu,X-Ray,2,33825.09
+7,Male,Surgery,X-Ray,4,111020.89
+19,Male,Surgery,MRI,2,104976.12
+57,Female,Diabetes,X-Ray,5,107427.17
+61,Female,Diabetes,CT Scan,3,89626.5
+66,Male,Infection,CT Scan,4,85976.51
+88,Male,Flu,Blood Test,1,62530.09
+39,Male,Fracture,CT Scan,5,93004.62
+31,Female,Hypertension,MRI,3,97258.55
+85,Female,Surgery,Therapy,4,155287.85
+71,Male,Flu,X-Ray,2,28203.55
+81,Female,Infection,Surgery,1,83849.38
+75,Male,Diabetes,X-Ray,4,95512.84
+53,Female,Hypertension,Blood Test,2,102109.7
+71,Female,Cancer,Medication,2,101967.95
+19,Male,Fracture,Therapy,2,98434.09
+75,Male,Surgery,Blood Test,2,125251.99
+12,Female,Fracture,Therapy,3,97856.13
+27,Male,Diabetes,Blood Test,1,79318.65
+10,Male,Infection,MRI,4,83780.12
+42,Male,Diabetes,Therapy,1,107952.68
+42,Male,Surgery,CT Scan,5,144576.01
+80,Female,Hypertension,Blood Test,5,144364.43
+27,Male,Hypertension,CT Scan,1,89977.18
+80,Male,Diabetes,Medication,2,66835.85
+12,Male,Cancer,Blood Test,1,113427.04
+76,Female,Infection,Therapy,2,95445.74
+36,Female,Diabetes,Medication,3,82357.1
+2,Male,Flu,Medication,1,16023.55
+24,Female,Hypertension,Medication,5,108889.58
+10,Male,Fracture,Surgery,5,99157.0
+58,Female,Infection,CT Scan,4,101193.64
+22,Male,Infection,Blood Test,4,94139.28
+45,Male,Flu,X-Ray,4,59620.88
+20,Male,Infection,Medication,2,42306.22
+16,Male,Fracture,Blood Test,3,82335.67
+69,Male,Flu,MRI,4,60438.99
+78,Male,Flu,Surgery,4,87023.12
+16,Female,Fracture,X-Ray,1,39127.08
+71,Female,Surgery,X-Ray,4,126256.09
+17,Female,Surgery,Medication,1,75433.03
+5,Female,Surgery,Medication,5,99310.94
+27,Male,Infection,Therapy,4,111609.23
+78,Female,Diabetes,X-Ray,3,87512.82
+31,Female,Diabetes,Therapy,3,114062.45
+54,Male,Diabetes,CT Scan,5,113910.72
+84,Female,Flu,Medication,3,39815.53
+25,Male,Infection,MRI,2,70871.67
+45,Male,Diabetes,X-Ray,5,94305.46
+1,Male,Flu,CT Scan,4,66074.48
+44,Female,Fracture,Blood Test,3,77221.55
+16,Female,Cancer,X-Ray,3,114880.77
+20,Female,Flu,Blood Test,3,65190.27
+1,Male,Fracture,MRI,1,48123.23
+66,Female,Diabetes,CT Scan,5,119656.95
+51,Male,Diabetes,CT Scan,1,82835.96
+3,Male,Hypertension,Medication,4,94233.12
+76,Male,Flu,Surgery,4,83671.24
+20,Male,Cancer,Medication,1,86380.4
+19,Male,Diabetes,CT Scan,3,102599.98
+45,Male,Flu,Surgery,3,74952.26
+53,Male,Surgery,Surgery,5,148959.44
+86,Female,Cancer,CT Scan,3,133819.77
+42,Female,Diabetes,MRI,2,77899.24
+26,Female,Hypertension,Medication,3,88907.07
+56,Male,Surgery,CT Scan,3,118030.43
+39,Female,Flu,Blood Test,3,74852.45
+78,Male,Surgery,Blood Test,3,142292.01
+26,Male,Diabetes,X-Ray,2,80154.32
+46,Female,Fracture,Therapy,4,107202.66
+42,Male,Infection,X-Ray,4,87049.19
+7,Female,Fracture,Blood Test,3,82220.36
+61,Male,Cancer,Blood Test,4,155043.7
+12,Male,Infection,Surgery,3,94998.81
+51,Male,Fracture,MRI,5,94186.52
+80,Male,Flu,Medication,1,20104.29
+13,Male,Hypertension,Medication,1,61075.2
+4,Male,Cancer,X-Ray,3,119555.38
+49,Male,Hypertension,Surgery,2,118844.66
+87,Male,Diabetes,Surgery,5,134665.02
+23,Female,Surgery,Blood Test,2,120291.58
+26,Female,Surgery,MRI,1,92685.78
+54,Female,Flu,Medication,5,58092.89
+78,Female,Flu,MRI,3,44256.33
+30,Female,Hypertension,Blood Test,4,120733.34
+79,Female,Diabetes,Therapy,1,94513.28
+51,Male,Fracture,Therapy,2,95116.72
+38,Male,Infection,X-Ray,1,56307.58
+7,Male,Surgery,X-Ray,1,95572.91
+50,Female,Fracture,Blood Test,3,78788.59
+52,Male,Surgery,MRI,1,92200.95
+34,Female,Hypertension,CT Scan,4,113877.31
+17,Male,Diabetes,Blood Test,4,124675.28
+73,Male,Fracture,MRI,5,92602.74
+35,Female,Flu,MRI,5,68472.16
+43,Female,Fracture,Therapy,3,92010.32
+32,Female,Cancer,MRI,1,96715.02
+16,Female,Infection,MRI,3,71785.88
+47,Male,Surgery,Blood Test,3,139212.71
+17,Female,Surgery,X-Ray,2,86920.06
+48,Male,Cancer,X-Ray,1,108757.25
+36,Male,Surgery,Surgery,2,124778.01
+53,Male,Fracture,Surgery,5,111829.88
+30,Female,Diabetes,MRI,1,55838.77
+42,Female,Fracture,Surgery,1,71093.48
+27,Male,Hypertension,Medication,1,61903.8
+21,Female,Flu,Medication,4,43100.45
+62,Male,Diabetes,Surgery,5,138321.42
+15,Female,Flu,Surgery,2,59426.57
+54,Male,Diabetes,MRI,2,87346.48
+3,Male,Surgery,Blood Test,3,135241.91
+58,Female,Flu,MRI,1,32594.77
+59,Female,Hypertension,Surgery,2,109080.0
+68,Male,Cancer,Blood Test,1,121054.99
+88,Female,Surgery,MRI,2,107620.99
+25,Male,Hypertension,CT Scan,1,93756.61
+85,Male,Diabetes,MRI,3,91508.92
+28,Female,Surgery,Surgery,4,149283.97
+51,Female,Cancer,X-Ray,1,91108.46
+32,Female,Fracture,Blood Test,5,102063.58
+87,Female,Flu,Therapy,5,108054.91
+74,Male,Infection,Medication,3,70643.13
+39,Female,Flu,Therapy,2,74392.46
+3,Female,Hypertension,Blood Test,3,111125.17
+10,Male,Diabetes,Surgery,4,124274.7
+12,Male,Flu,Surgery,5,88357.05
+19,Female,Fracture,Blood Test,3,85393.85
+84,Male,Cancer,X-Ray,4,127318.5
+51,Female,Hypertension,Medication,5,105791.4
+16,Male,Cancer,CT Scan,5,149651.96
+67,Male,Flu,MRI,1,37084.81
+71,Male,Cancer,Surgery,2,140894.23
+41,Female,Hypertension,Therapy,1,110990.88
+80,Male,Fracture,Surgery,1,71659.64
+89,Female,Hypertension,MRI,2,92993.0
+26,Male,Flu,Surgery,1,55895.61
+36,Male,Infection,Blood Test,1,73594.39
+69,Female,Cancer,CT Scan,3,132613.65
+25,Female,Diabetes,Blood Test,2,99100.98
+63,Female,Cancer,Medication,1,84125.32
+51,Male,Infection,MRI,3,75196.69
+84,Female,Cancer,Surgery,4,168450.96
+68,Male,Surgery,CT Scan,1,110050.98
+48,Male,Infection,MRI,5,100724.64
+13,Female,Fracture,Medication,5,70753.74
+45,Male,Diabetes,X-Ray,2,76450.94
+47,Female,Fracture,Medication,4,58434.25
+55,Female,Surgery,X-Ray,3,103966.63
+19,Male,Infection,Blood Test,3,97920.48
+14,Male,Flu,CT Scan,5,74119.01
+44,Female,Fracture,Medication,1,36029.19
+86,Female,Infection,Therapy,3,115024.48
+82,Male,Infection,Therapy,4,118329.72
+59,Male,Hypertension,Blood Test,1,105945.78
+19,Female,Hypertension,MRI,4,111648.62
+49,Male,Flu,MRI,5,74860.01
+26,Female,Infection,MRI,3,75049.06
+80,Female,Hypertension,Medication,5,101650.2
+87,Male,Hypertension,Blood Test,4,124521.68
+46,Male,Infection,Blood Test,4,111445.83
+55,Male,Diabetes,Blood Test,5,120547.73
+65,Female,Cancer,X-Ray,3,117328.81
+64,Male,Infection,Blood Test,3,97877.62
+77,Female,Infection,CT Scan,3,95142.43
+18,Male,Cancer,Surgery,1,122366.9
+45,Male,Cancer,Blood Test,4,154114.11
+82,Male,Fracture,Therapy,3,96416.38
+7,Female,Fracture,CT Scan,2,64930.55
+48,Male,Diabetes,X-Ray,4,86187.69
+57,Male,Fracture,CT Scan,5,99982.11
+40,Male,Diabetes,MRI,5,103442.1
+17,Male,Infection,Therapy,4,117670.87
+41,Male,Flu,X-Ray,2,25849.61
+38,Male,Surgery,MRI,5,132738.6
+75,Male,Flu,Medication,2,24293.91
+18,Male,Diabetes,X-Ray,1,59590.8
+88,Male,Cancer,Blood Test,5,167152.23
+25,Female,Fracture,MRI,5,77743.38
+49,Female,Infection,Blood Test,4,104589.65
+16,Male,Cancer,Blood Test,2,124905.95
+19,Female,Diabetes,Medication,3,64277.6
+73,Female,Surgery,MRI,1,98843.81
+42,Male,Infection,CT Scan,3,83182.69
+55,Female,Infection,Blood Test,2,81733.16
+34,Female,Flu,X-Ray,1,35323.86
+70,Male,Diabetes,Surgery,1,101156.7
+48,Female,Fracture,X-Ray,3,49954.27
+60,Male,Hypertension,MRI,4,112470.62
+73,Female,Infection,Medication,4,79334.6
+9,Female,Surgery,Blood Test,2,123362.83
+4,Male,Hypertension,Blood Test,1,94663.23
+20,Female,Infection,Blood Test,2,86997.1
+2,Female,Infection,X-Ray,5,82233.11
+8,Male,Surgery,X-Ray,3,108435.67
+63,Male,Fracture,Blood Test,1,60185.99
+37,Male,Diabetes,MRI,2,72035.44
+73,Male,Diabetes,Surgery,4,134710.17
+60,Male,Cancer,X-Ray,5,138680.86
+23,Female,Fracture,Medication,5,73171.88
+89,Female,Surgery,CT Scan,2,109947.32
+20,Female,Fracture,Blood Test,4,89625.22
+70,Female,Hypertension,Therapy,3,136927.75
+58,Male,Diabetes,Surgery,3,123388.84
+64,Female,Infection,Medication,5,77460.54
+83,Male,Flu,Medication,3,39203.21
+62,Male,Hypertension,Medication,1,64978.85
+68,Male,Cancer,Surgery,1,135994.13
+14,Female,Surgery,Blood Test,1,103981.69
+83,Female,Fracture,MRI,4,69609.06
+89,Female,Hypertension,CT Scan,3,105665.11
+72,Male,Surgery,CT Scan,2,117551.19
+42,Female,Infection,Surgery,1,78165.17
+63,Male,Diabetes,CT Scan,5,115325.09
+24,Female,Hypertension,Blood Test,2,108316.06
+87,Female,Cancer,X-Ray,5,137378.36
+46,Male,Fracture,CT Scan,3,72540.73
+26,Male,Surgery,MRI,3,110338.39
+75,Male,Flu,Surgery,5,97878.02
+78,Female,Infection,Surgery,3,102255.5
+56,Female,Diabetes,Medication,3,75503.27
+72,Male,Hypertension,Surgery,3,125889.27
+59,Male,Surgery,X-Ray,1,87643.44
+1,Female,Flu,Surgery,5,99277.63
+68,Male,Flu,Therapy,3,92156.1
+3,Female,Surgery,MRI,5,131515.98
+80,Female,Infection,X-Ray,4,80248.79
+87,Male,Hypertension,Therapy,1,118045.72
+33,Male,Cancer,MRI,2,119541.85
+63,Male,Fracture,CT Scan,4,75453.06
+81,Male,Fracture,MRI,3,70573.03
+48,Female,Flu,Blood Test,5,88647.68
+14,Male,Cancer,CT Scan,5,155038.3
+61,Male,Cancer,X-Ray,1,94145.22
+82,Female,Surgery,Surgery,2,126981.12
+78,Male,Surgery,X-Ray,2,102225.86
+8,Female,Flu,Blood Test,3,74663.08
+62,Female,Hypertension,Surgery,5,151082.62
+61,Female,Surgery,CT Scan,4,128401.68
+13,Male,Flu,X-Ray,1,17216.19
+82,Female,Infection,Surgery,5,123640.0
+31,Male,Flu,Surgery,5,93194.62
+54,Female,Fracture,CT Scan,2,63053.77
+81,Male,Hypertension,Therapy,5,160027.91
+84,Male,Hypertension,X-Ray,5,123715.86
+61,Female,Cancer,X-Ray,5,140207.27
+43,Female,Hypertension,CT Scan,1,93540.98
+80,Female,Surgery,Blood Test,2,127098.55
+81,Male,Fracture,Therapy,1,83030.46
+69,Female,Hypertension,Surgery,5,145308.31
+37,Male,Diabetes,Surgery,1,95949.05
+69,Male,Hypertension,Surgery,2,112876.6
+38,Female,Diabetes,MRI,3,91506.4
+18,Male,Diabetes,X-Ray,1,63708.64
+4,Male,Surgery,Surgery,4,140231.59
+82,Male,Surgery,X-Ray,3,114244.29
+28,Male,Infection,Blood Test,2,75029.34
+55,Female,Hypertension,Surgery,4,139563.35
+88,Female,Infection,X-Ray,1,47326.05
+13,Female,Cancer,Therapy,2,153960.05
+43,Female,Cancer,X-Ray,5,135488.71
+42,Female,Hypertension,Medication,1,66486.79
+18,Female,Cancer,CT Scan,2,121788.61
+7,Male,Diabetes,X-Ray,2,70478.81
+52,Female,Cancer,Surgery,2,139688.07
+29,Female,Infection,X-Ray,5,94144.54
+47,Female,Diabetes,Surgery,4,123900.17
+42,Female,Infection,Surgery,3,101677.99
+71,Female,Hypertension,MRI,3,96967.98
+86,Male,Surgery,MRI,1,92004.97
+30,Male,Fracture,CT Scan,5,84177.62
+22,Male,Diabetes,Blood Test,3,104020.41
+41,Male,Diabetes,CT Scan,2,91630.05
+65,Female,Diabetes,Therapy,2,106968.36
+14,Male,Hypertension,Blood Test,1,90407.48
+79,Male,Diabetes,Therapy,3,118493.92
+44,Male,Surgery,CT Scan,2,112798.16
+35,Male,Fracture,X-Ray,2,49175.01
+70,Female,Flu,Therapy,5,104160.89
+65,Female,Hypertension,MRI,3,110799.14
+16,Male,Cancer,MRI,4,132956.39
+61,Male,Flu,Surgery,2,75899.33
+74,Female,Hypertension,Therapy,3,135043.19
+17,Male,Surgery,MRI,1,92285.77
+34,Male,Surgery,Medication,5,129147.31
+68,Male,Diabetes,Blood Test,3,101729.26
+81,Male,Flu,MRI,5,78119.79
+12,Male,Cancer,Medication,1,82630.69
+58,Male,Diabetes,Medication,3,76000.96
+18,Male,Surgery,X-Ray,5,120503.48
+27,Female,Cancer,X-Ray,2,102228.64
+79,Female,Cancer,Surgery,4,158961.6
+57,Male,Infection,CT Scan,5,99929.85
+61,Male,Fracture,Therapy,2,86050.5
+87,Female,Diabetes,MRI,5,112696.47
+26,Male,Fracture,Therapy,3,90419.13
+34,Female,Infection,MRI,1,59137.8
+41,Male,Diabetes,CT Scan,1,82959.46
+7,Male,Hypertension,X-Ray,1,73754.54
+1,Male,Hypertension,MRI,5,124230.44
+10,Male,Fracture,Surgery,2,70385.13
+30,Male,Surgery,Therapy,4,146649.88
+74,Male,Diabetes,Medication,3,76279.27
+63,Male,Fracture,Blood Test,2,75757.65
+80,Female,Hypertension,Therapy,1,115536.58
+32,Female,Flu,Medication,3,32157.68
+59,Female,Surgery,CT Scan,2,115028.89
+58,Male,Surgery,Surgery,2,129565.06
+13,Male,Infection,Blood Test,1,59925.15
+87,Female,Infection,Medication,4,71522.47
+48,Male,Hypertension,Medication,3,84643.5
+38,Female,Diabetes,Blood Test,1,82219.14
+57,Male,Diabetes,X-Ray,2,70529.81
+62,Male,Fracture,Surgery,1,66205.3
+50,Female,Cancer,Surgery,2,137924.52
+75,Female,Cancer,Surgery,5,175766.91
+24,Female,Diabetes,MRI,2,78809.07
+17,Male,Surgery,Surgery,2,121212.18
+45,Male,Cancer,Blood Test,2,136596.4
+17,Female,Flu,CT Scan,1,39853.55
+47,Female,Infection,Blood Test,3,92472.76
+9,Male,Fracture,Blood Test,5,98248.36
+19,Male,Hypertension,Therapy,2,113600.66
+52,Male,Diabetes,MRI,2,70381.03
+49,Female,Cancer,MRI,2,110998.41
+53,Male,Diabetes,Blood Test,3,109141.6
+17,Male,Infection,CT Scan,4,92585.24
+33,Male,Fracture,CT Scan,4,79944.37
+49,Male,Infection,Blood Test,2,88784.35
+72,Female,Fracture,Blood Test,4,94884.84
+46,Female,Fracture,X-Ray,4,73864.51
+16,Female,Flu,X-Ray,5,62009.09
+25,Female,Fracture,Blood Test,2,78362.96
+80,Male,Fracture,MRI,2,51849.22
+6,Male,Infection,Blood Test,4,113303.72
+80,Male,Infection,Therapy,1,89295.42
+78,Male,Surgery,Therapy,1,125663.36
+26,Male,Fracture,Surgery,1,60804.92
+52,Female,Infection,CT Scan,4,95140.78
+26,Male,Surgery,Therapy,3,150435.76
+49,Male,Flu,X-Ray,4,57721.82
+44,Male,Hypertension,Medication,1,60130.97
+26,Female,Flu,Therapy,5,108539.66
+28,Female,Fracture,X-Ray,4,59485.33
+81,Female,Diabetes,Therapy,4,127145.48
+2,Male,Flu,Therapy,4,102639.04
+78,Male,Flu,Surgery,3,78537.29
+34,Male,Flu,Therapy,4,91843.13
+64,Female,Flu,Surgery,4,89182.82
+22,Female,Surgery,Surgery,2,131140.02
+51,Male,Cancer,Blood Test,3,138801.98
+6,Male,Fracture,Blood Test,4,91988.15
+11,Male,Surgery,CT Scan,3,121690.93
+69,Male,Surgery,MRI,5,145370.48
+70,Male,Infection,Medication,1,45352.54
+26,Female,Hypertension,Surgery,5,147705.93
+38,Female,Surgery,Medication,2,89410.1
+88,Male,Infection,CT Scan,5,110343.26
+14,Female,Flu,CT Scan,2,49280.36
+12,Female,Infection,Blood Test,4,101954.45
+10,Male,Diabetes,Blood Test,2,89019.84
+17,Male,Fracture,Medication,1,30750.49
+1,Female,Infection,Medication,4,71767.28
+4,Female,Surgery,Surgery,2,123214.02
+86,Female,Fracture,X-Ray,1,33788.65
+4,Female,Cancer,X-Ray,2,106978.34
+81,Male,Surgery,Blood Test,2,122007.89
+6,Female,Cancer,Blood Test,5,164881.23
+12,Female,Diabetes,Blood Test,1,91140.24
+2,Male,Infection,Surgery,2,90314.41
+10,Female,Fracture,Medication,5,57089.51
+84,Male,Hypertension,Surgery,4,136565.6
+14,Male,Hypertension,CT Scan,2,93570.08
+85,Male,Cancer,X-Ray,5,138021.67
+9,Female,Fracture,X-Ray,1,39758.17
+26,Male,Surgery,Medication,5,105910.94
+62,Male,Diabetes,Therapy,2,110498.51
+6,Male,Fracture,Medication,1,24311.2
+51,Female,Surgery,CT Scan,2,112395.0
+72,Female,Fracture,Blood Test,5,114553.83
+39,Female,Fracture,MRI,1,46835.46
+59,Female,Diabetes,Blood Test,2,93508.63
+27,Male,Cancer,Surgery,2,141516.63
+52,Male,Infection,Therapy,2,100191.06
+75,Male,Cancer,MRI,2,113379.05
+57,Female,Diabetes,Surgery,4,114326.31
+31,Male,Infection,X-Ray,1,42447.38
+85,Male,Infection,Medication,2,50645.68
+84,Female,Diabetes,MRI,3,83296.25
+51,Female,Cancer,Therapy,2,154001.07
+88,Female,Infection,CT Scan,5,100948.24
+30,Male,Diabetes,CT Scan,4,103984.22
+49,Female,Infection,X-Ray,3,62392.17
+66,Male,Fracture,Therapy,2,91835.23
+13,Female,Cancer,Therapy,1,149393.22
+68,Male,Diabetes,Medication,2,60756.74
+19,Female,Flu,Surgery,2,76692.41
+23,Female,Diabetes,Therapy,3,115332.08
+24,Female,Infection,MRI,2,60425.67
+53,Female,Infection,Medication,1,46018.14
+5,Female,Flu,X-Ray,2,33097.99
+30,Female,Hypertension,Medication,5,99181.77
+58,Male,Fracture,Surgery,2,76427.59
+76,Female,Flu,Blood Test,2,67650.22
+2,Male,Infection,Therapy,5,118935.61
+7,Female,Cancer,MRI,2,111276.92
+23,Male,Fracture,X-Ray,4,70870.03
+73,Female,Fracture,Surgery,5,103793.17
+52,Male,Hypertension,Therapy,5,154431.17
+41,Female,Diabetes,Medication,5,97429.38
+7,Male,Surgery,Therapy,4,151016.86
+32,Male,Infection,Surgery,3,96028.59
+85,Female,Surgery,Medication,1,76370.28
+4,Male,Surgery,Medication,3,96772.76
+23,Male,Cancer,Medication,5,128843.23
+85,Female,Hypertension,Surgery,5,145308.27
+16,Female,Infection,X-Ray,5,86271.9
+68,Male,Cancer,Surgery,5,162838.62
+9,Female,Hypertension,Therapy,4,136953.13
+69,Male,Infection,Therapy,4,126147.78
+69,Female,Infection,Medication,2,50513.19
+77,Male,Flu,CT Scan,2,59682.36
+75,Male,Infection,Medication,2,52490.67
+38,Female,Infection,Surgery,4,104650.56
+72,Male,Cancer,Medication,5,133419.32
+51,Female,Surgery,CT Scan,2,107234.83
+54,Male,Fracture,X-Ray,3,49585.33
+10,Female,Diabetes,Medication,4,80837.17
+87,Female,Cancer,Blood Test,4,151487.16
+36,Female,Hypertension,CT Scan,5,134074.3
+18,Male,Flu,Blood Test,3,66965.57
+35,Female,Diabetes,Medication,1,58480.15
+4,Male,Infection,CT Scan,5,99313.14
+41,Female,Cancer,Medication,5,125012.79
+80,Male,Fracture,CT Scan,4,80010.22
+69,Female,Surgery,CT Scan,2,106092.9
+17,Female,Hypertension,CT Scan,3,107358.04
+88,Female,Flu,Blood Test,3,80381.62
+49,Male,Diabetes,CT Scan,4,111434.91
+49,Male,Infection,X-Ray,3,70130.69
+2,Female,Diabetes,Therapy,1,85996.65
+88,Male,Surgery,MRI,3,121196.17
+49,Female,Surgery,Therapy,4,155685.36
+80,Male,Hypertension,Surgery,1,108906.55
+68,Female,Hypertension,Medication,4,97958.26
+30,Male,Fracture,Therapy,4,110473.7
+49,Female,Hypertension,CT Scan,4,124848.41
+55,Female,Fracture,X-Ray,5,82700.83
+31,Male,Diabetes,Therapy,2,109464.34
+87,Female,Hypertension,X-Ray,5,111077.12
+17,Male,Hypertension,CT Scan,2,89651.45
+37,Female,Diabetes,MRI,5,114820.8
+78,Male,Fracture,CT Scan,4,92726.86
+84,Male,Surgery,Blood Test,4,146908.14
+55,Female,Diabetes,Medication,2,61539.23
+42,Male,Hypertension,Surgery,1,114167.04
+60,Male,Diabetes,Surgery,3,112285.61
+21,Male,Surgery,Medication,1,71189.24
+85,Female,Infection,Medication,5,88161.6
+49,Male,Fracture,CT Scan,1,51695.58
+40,Female,Cancer,Medication,3,102621.02
+63,Male,Diabetes,CT Scan,3,100128.99
+43,Male,Hypertension,Therapy,1,114467.75
+36,Male,Fracture,MRI,2,55123.11
+57,Female,Hypertension,Therapy,1,105514.22
+71,Male,Flu,Therapy,2,79944.22
+80,Male,Fracture,Medication,4,60904.02
+20,Male,Cancer,MRI,1,95765.68
+19,Male,Fracture,MRI,1,46972.96
+65,Female,Diabetes,Surgery,5,134802.68
+40,Male,Flu,MRI,3,49868.42
+25,Female,Cancer,X-Ray,5,127725.66
+52,Male,Cancer,Therapy,4,167969.66
+85,Male,Surgery,Medication,3,95246.21
+73,Female,Cancer,Medication,1,84327.88
+66,Male,Cancer,CT Scan,3,132697.69
+47,Male,Cancer,Therapy,2,147473.82
+63,Female,Infection,Therapy,4,116185.26
+82,Female,Fracture,Medication,5,74537.33
+71,Male,Diabetes,Therapy,1,102168.05
+24,Female,Infection,Blood Test,5,111462.4
+18,Male,Flu,Surgery,2,72333.13
+23,Female,Flu,X-Ray,1,21100.08
+1,Female,Flu,Surgery,4,85936.9
+27,Female,Infection,X-Ray,3,57850.63
+76,Female,Surgery,MRI,4,121002.47
+1,Male,Diabetes,X-Ray,2,65444.08
+47,Male,Cancer,CT Scan,3,118827.68
+46,Female,Diabetes,Blood Test,3,108257.08
+18,Female,Diabetes,Therapy,3,120947.67
+44,Male,Surgery,Surgery,2,121741.87
+71,Female,Flu,Blood Test,4,80091.47
+9,Male,Fracture,MRI,3,59011.15
+73,Male,Diabetes,Therapy,3,126447.57
+84,Male,Cancer,Therapy,1,137741.21
+28,Male,Hypertension,MRI,4,108711.75
+31,Female,Fracture,Medication,4,56797.77
+38,Male,Infection,CT Scan,4,93536.61
+7,Female,Cancer,Medication,1,88565.06
+12,Male,Diabetes,Therapy,2,104567.05
+12,Female,Hypertension,Surgery,2,110668.2
+66,Male,Fracture,Surgery,2,91354.45
+17,Male,Infection,X-Ray,4,79613.45
+71,Female,Infection,X-Ray,1,54349.61
+34,Female,Diabetes,Surgery,2,110346.52
+45,Female,Fracture,X-Ray,2,43648.66
+15,Female,Hypertension,Blood Test,2,98114.51
+32,Female,Flu,CT Scan,3,61495.33
+51,Female,Fracture,CT Scan,3,75762.86
+76,Female,Diabetes,Blood Test,5,132833.04
+66,Female,Infection,X-Ray,4,72664.16
+10,Male,Infection,CT Scan,1,68045.98
+74,Male,Cancer,MRI,1,102703.57
+77,Female,Diabetes,X-Ray,3,81728.09
+68,Male,Infection,Therapy,1,95505.51
+40,Male,Infection,CT Scan,3,85221.79
+40,Male,Flu,Surgery,5,88271.46
+68,Male,Cancer,CT Scan,5,161373.13
+81,Male,Diabetes,Blood Test,1,81823.93
+2,Male,Fracture,Medication,1,23602.58
+43,Male,Diabetes,X-Ray,3,84692.8
+22,Female,Surgery,MRI,3,109122.33
+58,Female,Diabetes,MRI,4,104402.67
+88,Male,Hypertension,CT Scan,5,134806.81
+12,Male,Cancer,CT Scan,5,145831.54
+74,Female,Cancer,CT Scan,1,108151.82
+45,Female,Surgery,Therapy,3,135425.21
+3,Female,Cancer,CT Scan,5,160106.33
+56,Female,Fracture,Surgery,2,80536.76
+34,Male,Surgery,CT Scan,3,110870.36
+41,Male,Diabetes,Therapy,4,130635.7
+57,Male,Flu,MRI,2,42604.64
+71,Female,Cancer,MRI,1,98185.53
+45,Female,Fracture,Medication,3,46733.18
+70,Female,Cancer,CT Scan,2,120176.99
+86,Female,Flu,Therapy,4,98837.02
+72,Male,Surgery,MRI,5,130476.94
+49,Female,Hypertension,Therapy,4,147489.78
+5,Male,Fracture,CT Scan,2,58162.72
+38,Female,Flu,Blood Test,5,88887.6
+64,Female,Diabetes,Blood Test,2,101780.94
+79,Female,Diabetes,Therapy,2,111544.97
+35,Female,Hypertension,Therapy,2,121759.67
+28,Male,Diabetes,Surgery,2,90541.7
+59,Male,Infection,Therapy,5,140160.35
+53,Male,Cancer,MRI,5,149505.59
+58,Male,Cancer,Medication,5,136428.13
+27,Female,Infection,MRI,2,63312.64
+53,Female,Infection,CT Scan,3,83628.19
