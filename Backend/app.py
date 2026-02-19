@@ -6,7 +6,7 @@ import pandas as pd
 from fastapi.middleware.cors import CORSMiddleware
 
 
-# Initialize FastAPI app
+# Initializing Fastapi
 app = FastAPI(title="AI Treatment Cost Prediction API")
 
 app.add_middleware(
@@ -18,14 +18,14 @@ app.add_middleware(
 )
 
 
-# Load trained model
+# Loading train model
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "saved_models", "treatment_cost_model.pkl")
 
 model = joblib.load(MODEL_PATH)
 
 
-# Define input schema
+# Defining Pydantic Model
 class PatientData(BaseModel):
     Age: int
     Severity: int
@@ -41,7 +41,7 @@ def home():
 
 @app.post("/predict")
 def predict_cost(data: PatientData):
-    # Convert input to DataFrame
+    # Converting input to DataFrame
     input_df = pd.DataFrame([{
         "Age": data.Age,
         "Severity": data.Severity,

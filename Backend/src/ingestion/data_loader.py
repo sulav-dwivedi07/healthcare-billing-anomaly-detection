@@ -2,10 +2,10 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import os
 def load_data():
-    # Get Backend directory
+    
     base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
     
-    # Correct dataset location
+    
     file_path = os.path.join(base_path, "src", "data", "hospital_data.csv")
 
     df = pd.read_csv(file_path)

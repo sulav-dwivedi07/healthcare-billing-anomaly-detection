@@ -15,7 +15,7 @@ def main():
 
     X_train, X_test, y_train, y_test = split_data(df, target_column)
 
-    # MATCH YOUR GENERATED DATASET
+
     numerical_features = ["Age", "Severity"]
     categorical_features = ["Gender", "Diagnosis", "Procedure"]
 
@@ -32,7 +32,7 @@ def main():
         y_test
     )
 
-    # Example Prediction (MATCH DATASET STRUCTURE)
+   
     sample_input = [[45, 3, "Male", "Cancer", "Surgery"]]
 
     sample_df = pd.DataFrame(
